@@ -1,0 +1,86 @@
+<!DOCTYPE html><html lang="en">
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://suritours.in/#organization","name":"Outstation Car Hire by Suri Tours","url":"https://suritours.in/","sameAs":["https://www.facebook.com/outstationtaxidelhi"],"contactPoint": {"@type": "ContactPoint","contactType": "customer support","telephone": "+91-8800266954","email": "bookings@suritours.in"},"logo":{"@type":"ImageObject","@id":"https://suritours.in/#logo","url":"https://suritours.in/img/brandlogo.png","width":200,"height":93,"caption":"Suri Outstation Taxi Service"},"image":{"@id":"https://suritours.in/#logo"}},{"@type":"WebSite","@id":"https://suritours.in/#website","url":"https://suritours.in/","name":"Outstation Car Hire by Suri Tours","publisher":{"@id":"https://suritours.in/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://suritours.in/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://suritours.in/#webpage","url":"https://suritours.in/","inLanguage":"en-US","name":"Outstation Taxi- Hire Car, Cab, Taxi Service, Outstation Taxi From Delhi","isPartOf":{"@id":"https://suritours.in/#website"},"about":{"@id":"https://suritours.in/#organization"},"image":{"@type":"ImageObject","@id":"https://suritours.in/#primaryimage","url":"https://suritours.in/img/innovacrysta.webp","width":800,"height":246,"caption":"Outstation Taxi Service delhi"},"primaryImageOfPage":{"@id":"https://suritours.in/#primaryimage"},"datePublished":"2013-01-23T16:28:39+00:00","dateModified":"2021-04-10T14:23:37+00:00","description":"Outstation Cabs Delhi- Outstation Taxi/Cab booking in Delhi, We offer Cheap Fare for Outstation from Delhi at Rs.9/km. Online Taxi, Cab & Car from Delhi."}]}</script>
+<meta name="theme-color" content="#f2670e" /><link rel="stylesheet" href="ncss/style.min.css"><script type="text/javascript" src="njs/jquery.2.1.4.min.js"></script><style>.sect p {line-height: 2;text-align: justify;}</style>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqlG8izc3oQj8pgf0b0moJHJs-8qCEUUU&amp;libraries=places&amp;region=in"></script>
+ <body>
+<div class="col-md-4"><div class=""><ul class="nav nav-tabs">
+<li class="active"><a data-toggle="tab" href="#round"><i class="fa fa-exchange" aria-hidden="true"></i>&nbsp; Round Trip</a></li>
+<li><a data-toggle="tab" href="#oneway"><i class="fa fa-location-arrow" aria-hidden="true"></i>&nbsp; One Way</a></li>
+</ul></div>
+<div class="tpy-banner-form"><div class="tab-content"><div id="round" class="tab-pane fade in active">
+<form action="https://suritours.in/outstationtaxi.php" method="POST">
+<label>Pickup from :</label> 
+<div class="input-group">
+<span class="input-group-addon"><i class="fa fa-map-marker" aria-hidden="true"></i></span> 
+<select class="form-control" name="pickpoint" required><option value="">Select Location</option><option value="Delhi">New Delhi</option><option value="Gurgaon">Gurgaon</option>
+<option value="Noida">Noida</option><option value="Ghaziabad">Ghaziabad</option><option value="Delhi Airport">Delhi Airport</option><option value="Chandigarh">Chandigarh</option>
+<option value="Mohali">Mohali</option></select></div>
+<label>Travelling to :</label>
+<div class="input-group"> <span class="input-group-addon"><i class="fa fa-location-arrow" aria-hidden="true"></i></span> 
+<input id="droppoint" type="text" class="form-control" name="droppoint" placeholder="Drop Location" required> </div>
+<div class="row"><div class="col-md-6 col-xs-6"><label>From :</label>
+<div class="input-group"> <input id="dep_date" type="text" class="form-control" name="dep_date" placeholder="Pickup Date" required onfocus="blur();"></div>
+</div>
+<div class="col-md-6 col-xs-6"><label>To :</label>
+<div class="input-group"> <input id="ret_date" type="text" class="form-control" name="ret_date" placeholder="End Date" required onfocus="blur();"> </div>
+</div></div>
+<div class="row col-mb-15"><div class="col-md-6 col-xs-6"><label>Mobile no :</label>
+<div class=""><input id="rmainmobile" type="tel" class="form-control" name="rmainmobile" placeholder="10 Digit Mobile no" required=""></div>
+</div><div class="col-md-6 col-xs-6"><label>Passengers?</label> <div class="">
+<select class="form-control" name="nop" required>
+<option value="" disbled>--Select--</option><option value="1">1 Passenger</option><option value="2">2 Passenger</option><option value="3">3 Passenger</option>
+<option value="4">4 Passenger</option><option value="5">5 Passenger</option><option value="6">6 Passenger</option><option value="7">7 Passenger</option>
+<option value="7+">More than 7</option></select></div></div></div>
+<div class="row">
+<div class="col-md-12"><input type="hidden" id="view" name="view" value=""><button type="submit" name="searchbtn" class="btn btn-block btn-info" value="Submit">Submit</button></div>
+</div></form></div>
+
+<div id="oneway" class="tab-pane fade"><form action="https://suritours.in/outstationtaxi.php" method="POST">
+<label>Pickup from :</label><div class="input-group"><span class="input-group-addon"><i class="fa fa-map-marker" aria-hidden="true"></i></span>
+<select class="form-control" name="oneway" required><option value="">Select Location</option><option value="Delhi">New Delhi</option><option value="Gurgaon">Gurgaon</option>
+<option value="Noida">Noida</option><option value="Ghaziabad">Ghaziabad</option><option value="Delhi Airport">Delhi Airport</option><option value="Chandigarh">Chandigarh</option>
+<option value="Mohali">Mohali</option></select></div>
+<label>Drop Location :</label>
+<div class="input-group"><span class="input-group-addon"><i class="fa fa-location-arrow" aria-hidden="true"></i></span>
+<input id="odroppoint" type="text" class="form-control" name="odroppoint" placeholder="Drop Location" required></div>
+<label>Travel Date :</label><div class="input-group">
+<span class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></span><input id="odep_date" type="text" class="form-control" name="dep_date" placeholder="Pickup Date" onfocus="blur();" required>
+</div>
+<div class="row"><div class="col-md-6 col-xs-6">
+<label>Mobile no :</label><div class=""><input id="omainmobile" type="tel" class="form-control" name="omainmobile" placeholder="10 Digit Mobile no" required> </div>
+</div>
+<div class="col-md-6 col-xs-6"><label>Passengers?</label><div class=""><select class="form-control" name="onop" required>
+<option value="" disbled>--Select--</option><option value="1">1 Passenger</option><option value="2">2 Passenger</option><option value="3">3 Passenger</option>
+<option value="4">4 Passenger</option><option value="5">5 Passenger</option><option value="6">6 Passenger</option><option value="7">7 Passenger</option>
+<option value="7+">More than 7</option></select></div></div></div>
+<div class="row">
+<div class="col-md-12"><input type="hidden" id="oneview" name="oneview" value=""><input type="submit" name="onewaysearchbtn" class="btn btn-block btn-info" value="Submit"></div>
+</div></form></div></div></div></div></div></div></div>
+
+<script src="../code.jquery.com/jquery-1.12.4.js"></script><script src="../code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script type="text/javascript">function myFunction() {if (screen.width <= 699) {document.getElementById("view").value = "Mobile";
+document.getElementById("oneview").value = "Mobile";}else{document.getElementById("view").value = "Desktop";document.getElementById("oneview").value = "Desktop";}}</script>
+<script>$("#dep_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1,minDate: +0,
+onSelect: function(dateText, inst) {var date = $.datepicker.parseDate('yy/mm/dd', dateText);date.setDate(date.getDate() + 0);
+var $ret_date = $("#ret_date");$ret_date.datepicker("setDate", date);$ret_date.datepicker("option", "minDate", date);}});
+$("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_date" ).datepicker({minDate: +0,});$( "#ldate" ).datepicker({minDate: +0,});</script>
+<link rel="stylesheet" href="../code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<!-- Modal-form - Open --><div class="modal fade modal-style" id="modal-form" role="dialog"><div class="modal-dialog"><div class="modal-content card"><button type="button" class="close" data-dismiss="modal"> X</button><div class="modal-bk-form"><div class="modal-form-head bg-theme"><div class="img hidden-xs"> <img src="nimg/icons/paper-plane.png" alt="DROP AN ENQUIRY" title="DROP AN ENQUIRY"> </div><div class="content"><p>DROP AN ENQUIRY</p><span>Our Team will revert you Shortly</span></div></div><form id="form-ara"><div class="row"><div class="col-md-6 form-group"><label>Full Name*</label><div class="input-box p-rel"><div class="input-icon"> <i class="fa fa-user-o"></i> </div><input type="text" name="name" id="sqname" class="form-control" placeholder="Your Name" ></div></div><div class="col-md-6 form-group"><label>10 Digit Mobile No*</label><div class="input-box p-rel"><div class="input-icon"> <i class="fa fa-phone"></i> </div>
+<input type="tel" name="mobile"  id="sqmobile" class="form-control" placeholder="10 Digit Mobile no" required value=""></div></div><div class="col-md-12 form-group"><label>Query*</label><div class="input-box p-rel"><div class="input-icon"> <i class="fa fa-commenting-o"></i> </div><textarea name="message" id="sqmessage"  placeholder="Share your Message.*" class="form-control" ></textarea></div></div><div class="col-md-12"><button type="button" onclick="myenq()" class="btn btn-success float-right text-uppercase"> <i class="fa fa-paper-plane-o"></i> Submit</button></div></div></form><style>#succes{display:none;padding:25px;}</style><div class="container" id="succes"><p>Thanks, We will get back to you soon.</p></div></div></div></div></div><script>function myenq(){var sqnaam =document.getElementById("sqname").value;var sqmobile =document.getElementById("sqmobile").value;var sqmessage =document.getElementById("sqmessage").value;var landurl = 'index.html';if(sqnaam=='' || sqmobile=='' || sqmessage==''){alert ("PLease Fill all inputs");}else{var dataString='sqnaam=' + sqnaam + '&sqmobile=' + sqmobile + '&sqmessage=' + sqmessage + '&landurl=' + landurl;$.ajax({type: "POST",url: "https://suritours.in/tourinquiry.php",data: dataString,cache: false,success: function(html){$("#form-ara").slideUp();document.getElementById("succes").style.display="block";alert(html);}});}}</script><script src="njs/bootstrap.min.js"> </script><script src="njs/main.min.js"> </script><!-- Clarity tracking code for https://suritours.in/ --><script>(function(c, l, a, r, i, t, y) {c[a] = c[a] || function() {(c[a].q = c[a].q || []).push(arguments)};t = l.createElement(r);t.async = 1;t.src = "https://www.clarity.ms/tag/" + i;y = l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t, y);})(window, document, "clarity", "script", "58bt3opulp");</script><script type="text/javascript">google.maps.event.addDomListener(window, 'load', function () {var rtplaces = new google.maps.places.Autocomplete(document.getElementById('droppoint'));
+var rtplaces = new google.maps.places.Autocomplete(document.getElementById('odroppoint'));google.maps.event.addListener(rtplaces, 'place_changed', function () {});});</script>
+</div><link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&amp;display=swap" rel="stylesheet">
+<script src="../code.jquery.com/jquery-1.12.4.js"></script><script src="../code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script type="text/javascript">function myFunction() {if (screen.width <= 699) {document.getElementById("view").value = "Mobile";
+document.getElementById("oneview").value = "Mobile";}else{document.getElementById("view").value = "Desktop";document.getElementById("oneview").value = "Desktop";}}</script>
+<script>$("#dep_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1,minDate: +0,
+onSelect: function(dateText, inst) {var date = $.datepicker.parseDate('yy/mm/dd', dateText);date.setDate(date.getDate() + 0);
+var $ret_date = $("#ret_date");$ret_date.datepicker("setDate", date);$ret_date.datepicker("option", "minDate", date);}});
+$("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_date" ).datepicker({minDate: +0,});$( "#ldate" ).datepicker({minDate: +0,});</script>
+<link rel="stylesheet" href="../code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<!-- Modal-form - Open --><div class="modal fade modal-style" id="modal-form" role="dialog"><div class="modal-dialog"><div class="modal-content card"><button type="button" class="close" data-dismiss="modal"> X</button><div class="modal-bk-form"><div class="modal-form-head bg-theme"><div class="img hidden-xs"> <img src="nimg/icons/paper-plane.png" alt="DROP AN ENQUIRY" title="DROP AN ENQUIRY"> </div><div class="content"><p>DROP AN ENQUIRY</p><span>Our Team will revert you Shortly</span></div></div><form id="form-ara"><div class="row"><div class="col-md-6 form-group"><label>Full Name*</label><div class="input-box p-rel"><div class="input-icon"> <i class="fa fa-user-o"></i> </div><input type="text" name="name" id="sqname" class="form-control" placeholder="Your Name" ></div></div><div class="col-md-6 form-group"><label>10 Digit Mobile No*</label><div class="input-box p-rel"><div class="input-icon"> <i class="fa fa-phone"></i> </div>
+<input type="tel" name="mobile"  id="sqmobile" class="form-control" placeholder="10 Digit Mobile no" required value=""></div></div><div class="col-md-12 form-group"><label>Query*</label><div class="input-box p-rel"><div class="input-icon"> <i class="fa fa-commenting-o"></i> </div><textarea name="message" id="sqmessage"  placeholder="Share your Message.*" class="form-control" ></textarea></div></div><div class="col-md-12"><button type="button" onclick="myenq()" class="btn btn-success float-right text-uppercase"> <i class="fa fa-paper-plane-o"></i> Submit</button></div></div></form><style>#succes{display:none;padding:25px;}</style><div class="container" id="succes"><p>Thanks, We will get back to you soon.</p></div></div></div></div></div><script>function myenq(){var sqnaam =document.getElementById("sqname").value;var sqmobile =document.getElementById("sqmobile").value;var sqmessage =document.getElementById("sqmessage").value;var landurl = 'index.html';if(sqnaam=='' || sqmobile=='' || sqmessage==''){alert ("PLease Fill all inputs");}else{var dataString='sqnaam=' + sqnaam + '&sqmobile=' + sqmobile + '&sqmessage=' + sqmessage + '&landurl=' + landurl;$.ajax({type: "POST",url: "https://suritours.in/tourinquiry.php",data: dataString,cache: false,success: function(html){$("#form-ara").slideUp();document.getElementById("succes").style.display="block";alert(html);}});}}</script><script src="njs/bootstrap.min.js"> </script><script src="njs/main.min.js"> </script><!-- Clarity tracking code for https://suritours.in/ --><script>(function(c, l, a, r, i, t, y) {c[a] = c[a] || function() {(c[a].q = c[a].q || []).push(arguments)};t = l.createElement(r);t.async = 1;t.src = "https://www.clarity.ms/tag/" + i;y = l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t, y);})(window, document, "clarity", "script", "58bt3opulp");</script><script type="text/javascript">google.maps.event.addDomListener(window, 'load', function () {var rtplaces = new google.maps.places.Autocomplete(document.getElementById('droppoint'));
+var rtplaces = new google.maps.places.Autocomplete(document.getElementById('odroppoint'));google.maps.event.addListener(rtplaces, 'place_changed', function () {});});</script>
+</div><link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&amp;display=swap" rel="stylesheet">
+</body>
+
+</html>
