@@ -1928,13 +1928,13 @@ flexibility(document.documentElement);
 <input type="text" id="drop" name="droppoint" class="form-control" name="droppoint" placeholder="Drop Location" required>
 	</div>
 
-<div class="row"><div class="col-md-6 col-xs-6"><label>From :</label>
+<div class="row"><div class="col-md-15 col-xs-12"><label>From :</label>
 <!-- <div class="input-group"> <input id="dep_date" type="date" class="form-control" name="dep_date" placeholder="Pickup Date" size= "4" required onfocus="blur();"></div>
 </div> -->
 <div class="input-group">
 <span class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></span><input id="dep_date" type="date" class="form-control" name="dep_date" placeholder="Pickup Date" onfocus="blur();" required>
 </div></div>
-<div class="col-md-7 col-xs-6"><label>To :</label>
+<div class="col-md-15 col-xs-12"><label>To :</label>
 <div class="input-group">
 <span class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></span><input id="ret_date" type="date" class="form-control" name="ret_date" placeholder="Pickup Date" onfocus="blur();" required>
 </div></div> </div>
@@ -2323,7 +2323,531 @@ var $ret_date = $("#ret_date");$ret_date.datepicker("setDate", date);$ret_date.d
 $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_date" ).datepicker({minDate: +0,});$( "#ldate" ).datepicker({minDate: +0,});</script>
 <link rel="stylesheet" href="../code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <link rel="stylesheet" href="ncss/style.min.css">
+      <script type="text/javascript" src="njs/jquery.2.1.4.min.js"></script>
+      <style>.sect p {line-height: 2;text-align: justify;}</style>
+   </head>
 
+   <body onload="myFunction()">
+      
+                        <style>@media (min-width: 992px){.dropdown-menu .dropdown-toggle:after{border-top: .3em solid transparent;border-right: 0;border-bottom: .3em solid transparent;border-left: .3em solid;}
+
+                           .dropdown-menu .dropdown-menu{margin-left:0; margin-right: 0;}.dropdown-menu li{position: relative;}.nav-item .submenu{display: none;position: absolute;left:100%; top:-7px;}
+
+                           .nav-item .submenu-left{right:100%; left:auto;}.dropdown-menu > li:hover{ background-color:#ffdd78}.dropdown-menu > li:hover > .submenu{display: block;}}
+
+                        </style>
+
+                       
+
+                        <script>$(document).on('click', '.dropdown-menu', function (e) {e.stopPropagation();});if ($(window).width() < 992) {$('.dropdown-menu a').click(function(e){e.preventDefault();
+
+                           if($(this).next('.submenu').length){$(this).next('.submenu').toggle();}$('.dropdown').on('hide.bs.dropdown', function () {$(this).find('.submenu').hide();})});}
+
+                        </script>
+<div id="nav-highlights">
+
+         <div class="highlights-section section">
+
+            <div class="container">
+
+               <h2 class="heading-title">Taxi Service in Delhi for Outstation</h2>
+
+               <div class="content-sheet text-justify col-mb-15 sect">
+
+                  <p>Tomar Travel has rich experience of more than 20 years when it comes to <strong>outstation taxi services from Delhi</strong> for all Trips. We mainly provide service from Delhi to PAN India as we have <b>All India Tourist Permit</b> Taxi service for Outstation. If you want to go to <strong>Shimla, Manali, Nainital, Jim Corbett</strong> or any other tourist destination, our outstation taxis are available at economical costs. Equipped with experienced and reliable drivers, our outstation taxi trips will be comfortable and safe, in every aspect. Free feel to check our outstation taxi charges from Delhi-NCR to other parts of the country.</p>
+
+               </div>
+
+               <div class="row">
+
+                  <div class="col-md-6">
+
+                     <div class="content-sheet col-mb-30">
+
+                        <p>We provide every type of taxi vehicles you would need for long-route journeys.</p>
+
+
+
+         
+      </div></p>
+
+                     </div>
+
+                  </div>
+
+                  
+
+               </div>
+
+            </div>
+
+         </div>
+
+      </div>
+                       
+            
+
+                
+
+                
+                     <div class="col-md-6 col-xs-35">
+                      
+                        <ul class="ul-list" style="padding-left:300px;list-style:none;">
+                      
+                           <li><i class="fa fa-check-square-o"></i> Largest Outstation Taxi Service in Delhi</li>
+                           <li><i class="fa fa-check-square-o"></i> Transparent Pricing, No hidden Charges</li>
+						   <li><i class="fa fa-check-square-o"></i> 24x7 Road Side Assistance Available</li>
+						   <li>
+
+						   <i class="fa fa-check-square-o"></i> Well Maintained Cabs for Long Distance Journey.
+
+                           </li>
+
+                           <li>
+
+						   <i class="fa fa-check-square-o"></i> Experienced Drivers for Long Route Travel.
+
+                           </li>
+
+                           <li>
+
+						   <i class="fa fa-check-square-o"></i> Online Cab Booking for Easy & Fast Confirmation.
+
+                           </li>
+
+                           <li>
+
+						   <i class="fa fa-check-square-o"></i> On Time Scheduled at Pickup Location.
+
+                           </li>
+
+                           <li>
+
+						   <i class="fa fa-check-square-o"></i> Cabs are with Carrier & Rope for Extra Luggage.
+
+                           </li>
+
+                           <li>
+
+						   <i class="fa fa-check-square-o"></i> Focused on Quality Service.
+
+                           </li>
+
+                        </ul>
+						
+                        </ul>
+
+                     </div>
+
+                     <div class="col-md-6 col-mb-35">
+					 
+                        <img src="images/2021-Toyota-Innova-Crysta.png" class="img-responsive" alt="Outstation Cabs Hire in Delhi" title="Hire Innova for Outstation in Delhi">
+						
+                     </div>
+
+                 </div>
+
+               </div>
+
+ 
+
+            </div>
+
+         </div>
+
+      </div>
+
+      
+
+      <div id="nav-project">
+
+         <div class="new-launch-section">
+
+            <div class="container">
+
+               <div class="row">
+
+                  <div class="col-md-12">
+
+       
+
+                  </div>
+
+               </div>
+
+               <div class="row new-launch-row section">
+
+                  
+
+                  <div class="col-sm-6 col-md-4">
+
+                     <div class="new-launch-item bg-white col-mb">
+
+                        <div class="new-launch-img p-rel"><img src="img/dzire.jpg" alt="Dzire on rent in Delhi" title="Dzire on rent in Delhi" class="img-full img-cover"></div>
+
+                        <div class="new-launch-content">
+
+                           <div class="row">
+
+                              <div class="col-md-8 col-mb-15">
+
+                                 <!-- <h1>Dzire / Etios</h1> -->
+
+                                 
+
+                              </div>
+
+                              
+
+                           </div>
+
+                        </div>
+
+                     </div>
+
+                  </div>
+
+                  <div class="col-sm-6 col-md-4">
+
+                     <div class="new-launch-item bg-white col-mb">
+
+                        <div class="new-launch-img p-rel"><img src="img/new-ertiga.webp" alt="Ertiga Taxi hire in Delhi" title="Ertiga Taxi hire in Delhi" class="img-full img-cover"></div>
+
+                        <div class="new-launch-content">
+
+                           <div class="row">
+
+                              <div class="col-md-8 col-mb-15">
+
+                               
+                                <!-- <h1> Maruti Ertiga</h1> -->
+
+                              </div>
+
+                              
+
+                           </div>
+
+                        </div>
+
+                     </div>
+
+                  </div>
+
+                  <div class="col-sm-6 col-md-4">
+
+                     <!--<p class="cabfares">Innova Taxi fare in Delhi</p>-->
+
+                     <div class="new-launch-item bg-white col-mb">
+
+                        <div class="new-launch-img p-rel"><img src="img/toyotainnova.webp" alt="Innova hire in Delhi" title="Innova hire in Delhi" class="img-full img-cover"></div>
+
+                        <div class="new-launch-content">
+
+                           <div class="row">
+
+                              <div class="col-md-10 col-mb-20">
+
+                                 <!-- <h1>Toyota Innova</h1> -->
+
+                                 
+
+                              </div>
+
+                              
+                           </div>
+
+                        </div>
+
+                     </div>
+
+                  </div>
+
+               </div>
+
+            </div>
+
+         </div>
+
+      </div>
+
+ 
+
+  
+      <script src="../code.jquery.com/jquery-1.12.4.js"></script>
+	  <script src="../code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+      <script type="text/javascript">function myFunction() {if (screen.width <= 699) {document.getElementById("view").value = "Mobile";
+
+         document.getElementById("oneview").value = "Mobile";}else{document.getElementById("view").value = "Desktop";document.getElementById("oneview").value = "Desktop";}}
+
+      </script>
+      <script>$("#dep_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1,minDate: +0,
+
+         onSelect: function(dateText, inst) {var date = $.datepicker.parseDate('yy/mm/dd', dateText);date.setDate(date.getDate() + 0);
+
+         var $ret_date = $("#ret_date");$ret_date.datepicker("setDate", date);$ret_date.datepicker("option", "minDate", date);}});
+
+         $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_date" ).datepicker({minDate: +0,});$( "#ldate" ).datepicker({minDate: +0,});
+
+      </script>
+
+      <link rel="stylesheet" href="../code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+      <!-- Footer - Start -->
+
+      <!-- Footer - Start -->
+
+      <div class="foot" style="background:#17202f;">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-3 col-mb-30">
+                  <p class="fhead heading-title">About us</p>
+                  <p class="text-justify"><b><a>Car Hire in Delhi</a></b> by XRI Taxi &amp; Car Rental service provider in Delhi-NCR. We are into this service from last 20 years for Taxi Tour Service. We deals in : <strong>Taxi service for Outstation</strong>, also <strong>Car hire for Outstation</strong>, or <strong>Taxi Service in Delhi</strong>, and other North India tour packages.</p>
+               </div>
+
+               <div class="col-md-3 col-mb-30">
+                  <p class="fhead heading-title">Useful Links</p>
+                  <div class="footlinks">
+                     <ul>
+                        <li><a href="#" target="_blank">Pay Online</a></li>
+                        <li><a href="#" title="Delhi Taxi Rate list">Delhi Taxi Fare List</a></li>
+                        <!--<li><a href="#">Restricted Items</a></li>-->
+                        <!--<li><a href="#">Terms & Conditions</a></li>-->
+                        <!--<li><a href="#">Privacy Policy</a></li>-->
+                        <!--<li><a href="#">Refund Policy</a></li>-->
+                        <!--<li><a href="#">Our Company Profile</a></li>-->
+                        <li><a href="#" title="Tomar Travel Contact Details">Reach us</a></li>
+                        <li><a href="#" target="_blank">Delhi Taxi Service</a> </li>
+                        <li><a href="#" target="_blank">24 Hours Taxi Service</a></li>
+                        <li><a href="#" target="_blank">Innova Hire in Delhi</a></li>
+                     </ul>
+                  </div>
+               </div>
+
+               <div class="col-md-3 col-mb-30">
+
+                  <p class="fhead heading-title">Top Locations</p>
+                  <div class="footlinks">
+                     <ul>
+                        <li><a title="Delhi to Haridwar Cab">Delhi to Haridwar Cab</a></li>
+
+                        <li><a title="Delhi to Nainital Cab">Delhi to Nainital Cab</a></li>
+
+                        <li><a title="Delhi to Shimla Cab">Delhi to Shimla Cab</a></li>
+
+                        <li><a title="Delhi to Manali Cab">Delhi to Manali Cab</a></li>
+
+                        <li><a title="Delhi to Jim Corbett Cab">Delhi to Jim Corbett Cab</a></li>
+
+                        <li><a title="Delhi to Ajmer Cab">Delhi to Ajmer Cab</a></li>
+
+                        <li><a title="Delhi to Khatu Shyam Cab">Delhi to Khatu Shyam Cab</a></li>
+
+
+                     </ul>
+
+                  </div>
+
+               </div>
+
+               <div class="col-md-3 col-mb-30">
+
+                  <p class="fhead heading-title">Contact</p>
+
+                  <div class="footgit">
+
+                     <ul>
+
+                        <li>
+
+                           <p><i class="fa fa-map-marker" aria-hidden="true"></i> Sector 21 Dwarika, New Delhi India - 110075</p>
+
+                        </li>
+
+                        <li>
+
+                           <p><i class="fa fa-phone" aria-hidden="true"></i>&nbsp; +91-9871559871</p>
+
+                        </li>
+
+                        <li>
+
+                           <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp; 24 Hours Open</p>
+
+                        </li>
+
+                        <li>
+
+                           <p><i class="fa fa-globe" aria-hidden="true"></i>&nbsp; tomartravel.com</p>
+
+                        </li>
+
+                     </ul>
+
+
+                  </div>
+
+               </div>
+
+            </div>
+
+         </div>
+
+      </div>
+
+      <div class="copyrights bg-dark text-center">
+
+         <div class="container">
+
+            <div class="row">
+
+               <div class="col-md-12">
+
+                  <p> Copyright © 2020 <a href="#">Tomar Travel</a></p>
+
+               </div>
+
+            </div>
+
+         </div>
+
+      </div>
+
+      <!-- Footer - End -->
+
+      <!-- Modal-form - Open -->
+
+      <div class="modal fade modal-style" id="modal-form" role="dialog">
+
+         <div class="modal-dialog">
+
+            <div class="modal-content card">
+
+               <button type="button" class="close" data-dismiss="modal"> X</button>
+
+               <div class="modal-bk-form">
+
+                  <div class="modal-form-head bg-theme">
+
+                    
+
+                     <div class="content">
+
+                        <p>DROP AN ENQUIRY</p>
+
+                        <span>Our Team will revert you Shortly</span>
+
+                     </div>
+
+                  </div>
+				                  <form id="form-ara" method="POST" enctype="multipart/form-data" action="./connect.php">
+
+                     <div class="row">
+
+                        <div class="col-md-6 form-group">
+
+                           <label>Full Name*</label>
+
+                           <div class="input-box p-rel">
+
+                              <div class="input-icon"> <i class="fa fa-user-o"></i> </div>
+
+                              <input type="text" name="name" id="sqname" class="form-control" placeholder="Your Name">
+
+                           </div>
+
+                        </div>
+
+                        <div class="col-md-6 form-group">
+
+                           <label>10 Digit Mobile No*</label>
+
+                           <div class="input-box p-rel">
+
+                              <div class="input-icon"> <i class="fa fa-phone"></i> </div>
+
+                              <input type="tel" name="mobile" id="sqmobile" class="form-control" placeholder="10 Digit Mobile no" required="" value="">
+
+                           </div>
+
+                        </div>
+
+                        <div class="col-md-12 form-group">
+
+                           <label>Query*</label>
+
+                           <div class="input-box p-rel">
+
+                              <div class="input-icon"> <i class="fa fa-commenting-o"></i> </div>
+
+                              <textarea name="message" id="sqmessage" placeholder="Share your Message.*" class="form-control"></textarea>
+
+                           </div>
+
+                        </div>
+
+                        <div class="col-md-12">
+						<input type="submit" class="btn float-right text-uppercase" name="quicksubmit" id="submit1" value="Submit"></div>
+
+                     </div>
+
+                  </form>
+
+                  <style>#succes{display:none;padding:25px;}</style>
+
+                 
+
+               </div>
+
+            </div>
+
+         </div>
+
+      </div>
+
+      
+
+      <script src="njs/bootstrap.min.js"> </script>
+
+      <script src="njs/main.min.js"> </script><!-- Footer - End -->
+
+      <div class="enquiry-fix-btn btn-success hidden-xs"><a class="btn btn-success text-uppercase" data-toggle="modal" data-target="#modal-form"> 
+
+         <i class="fa fa-paper-plane-o"></i> Send Inquiry</a>
+
+      </div>
+
+      <!-- Bottom-fix - End -->
+
+      <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+      <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&amp;display=swap" rel="stylesheet">
+<!-- GetButton.io widget -->
+<!-- <script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+919871559871", // WhatsApp number
+            call: "+919871559871", // Call phone number
+            call_to_action: "Message us", // Call to action
+            button_color: "#FF6550", // Color of button
+            position: "left", // Position may be 'right' or 'left'
+            order: "whatsapp,call", // Order of buttons
+        };
+        var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script> -->
+<!-- /GetButton.io widget -->
+   </body>
+
+
+</html>
 </body>
 
 
