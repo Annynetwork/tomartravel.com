@@ -6,7 +6,6 @@
 
 <head>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<!-- Global site tag (gtag.js) - Google Ads: 341817982 -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-341817982"></script>
@@ -28,6 +27,8 @@
 	<meta name="description"
 		content="Looking For Car Rental in Delhi & NCR? Tomar Travels provide the best service in car rentals without any wait." />
 	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
 	<link rel="canonical" href="index.html" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="website" />
@@ -54,7 +55,7 @@
 	<link rel="alternate" type="application/rss+xml" title="Tomar Travels &raquo; Comments Feed"
 		href="comments/feed/index.html" />
 	<script>
-		window._wpemojiSettings = { "baseUrl": "https://s.w.org/images/core/emoji/13.0.1/72x72/", "ext": ".png", "svgUrl": "https://s.w.org/images/core/emoji/13.0.1/svg/", "svgExt": ".svg", "source": { "concatemoji": "http://www.tomartravels.com/wp-includes/js/wp-emoji-release.min.js?ver=5.6.7" } };
+		window._wpemojiSettings = { "baseUrl": "https://s.w.org/images/core/emoji/13.0.1/72x72/", "ext": ".png", "svgUrl": "https://s.w.org/images/core/emoji/13.0.1/svg/", "svgExt": ".svg", "source": { "concatemoji": "./wp-includes/js/wp-emoji-release.min.js?ver=5.6.7" } };
 		!function (e, a, t) { var n, r, o, i = a.createElement("canvas"), p = i.getContext && i.getContext("2d"); function s(e, t) { var a = String.fromCharCode; p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0); e = i.toDataURL(); return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL() } function c(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (o = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, r = 0; r < o.length; r++)t.supports[o[r]] = function (e) { if (!p || !p.fillText) return !1; switch (p.textBaseline = "top", p.font = "600 32px Arial", e) { case "flag": return s([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) ? !1 : !s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !s([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]); case "emoji": return !s([55357, 56424, 8205, 55356, 57212], [55357, 56424, 8203, 55356, 57212]) }return !1 }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (n = t.source || {}).concatemoji ? c(n.concatemoji) : n.wpemoji && n.twemoji && (c(n.twemoji), c(n.wpemoji))) }(window, document, window._wpemojiSettings);
 	</script>
 	<style>
@@ -1522,9 +1523,9 @@
 			}
 		}
 	</style>
-	<link rel='stylesheet' id='google-fonts-1-css'
+	<!-- <link rel='stylesheet' id='google-fonts-1-css'
 		href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CAllerta+Stencil%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CBarriecito%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COleo+Script%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.6.7'
-		media='all' />
+		media='all' /> -->
 	<link rel='stylesheet' id='elementor-icons-shared-0-css'
 		href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.minb683.css?ver=5.12.0'
 		media='all' />
@@ -1546,7 +1547,7 @@ flexibility(document.documentElement);
 <link rel="apple-touch-icon" href="images/favicon.ico" type="image/gif" sizes="16x16">
 <script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://suritours.in/#organization","name":"Outstation Car Hire by Suri Tours","url":"https://suritours.in/","sameAs":["https://www.facebook.com/outstationtaxidelhi"],"contactPoint": {"@type": "ContactPoint","contactType": "customer support","telephone": "+91-8800266954","email": "bookings@suritours.in"},"logo":{"@type":"ImageObject","@id":"https://suritours.in/#logo","url":"https://suritours.in/img/brandlogo.png","width":200,"height":93,"caption":"Suri Outstation Taxi Service"},"image":{"@id":"https://suritours.in/#logo"}},{"@type":"WebSite","@id":"https://suritours.in/#website","url":"https://suritours.in/","name":"Outstation Car Hire by Suri Tours","publisher":{"@id":"https://suritours.in/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://suritours.in/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://suritours.in/#webpage","url":"https://suritours.in/","inLanguage":"en-US","name":"Outstation Taxi- Hire Car, Cab, Taxi Service, Outstation Taxi From Delhi","isPartOf":{"@id":"https://suritours.in/#website"},"about":{"@id":"https://suritours.in/#organization"},"image":{"@type":"ImageObject","@id":"https://suritours.in/#primaryimage","url":"https://suritours.in/img/innovacrysta.webp","width":800,"height":246,"caption":"Outstation Taxi Service delhi"},"primaryImageOfPage":{"@id":"https://suritours.in/#primaryimage"},"datePublished":"2013-01-23T16:28:39+00:00","dateModified":"2021-04-10T14:23:37+00:00","description":"Outstation Cabs Delhi- Outstation Taxi/Cab booking in Delhi, We offer Cheap Fare for Outstation from Delhi at Rs.9/km. Online Taxi, Cab & Car from Delhi."}]}</script>
 <meta name="theme-color" content="#f2670e" /><link rel="stylesheet" href="ncss/style.min.css"><script type="text/javascript" src="njs/jquery.2.1.4.min.js"></script><style>.sect p {line-height: 2;text-align: justify;}</style>
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqlG8izc3oQj8pgf0b0moJHJs-8qCEUUU&amp;libraries=places&amp;region=in"></script>
+<!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqlG8izc3oQj8pgf0b0moJHJs-8qCEUUU&amp;libraries=places&amp;region=in"></script> -->
 	<!--<script src='wp-includes/js/jquery/jquery.min9d52.js?ver=3.5.1' id='jquery-core-js'></script>-->
 	<script src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
 	<script src='./wp-content/plugins/wp-floating-menu/js/frontend370e.js?ver=1.4.3' id='wpfm-frontend-js-js'></script>
@@ -1595,7 +1596,7 @@ flexibility(document.documentElement);
 	<link rel="apple-touch-icon" href="images/favicon.ico" type="image/gif" sizes="16x16">
 <script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://suritours.in/#organization","name":"Outstation Car Hire by Suri Tours","url":"https://suritours.in/","sameAs":["https://www.facebook.com/outstationtaxidelhi"],"contactPoint": {"@type": "ContactPoint","contactType": "customer support","telephone": "+91-8800266954","email": "bookings@suritours.in"},"logo":{"@type":"ImageObject","@id":"https://suritours.in/#logo","url":"https://suritours.in/img/brandlogo.png","width":200,"height":93,"caption":"Suri Outstation Taxi Service"},"image":{"@id":"https://suritours.in/#logo"}},{"@type":"WebSite","@id":"https://suritours.in/#website","url":"https://suritours.in/","name":"Outstation Car Hire by Suri Tours","publisher":{"@id":"https://suritours.in/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://suritours.in/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://suritours.in/#webpage","url":"https://suritours.in/","inLanguage":"en-US","name":"Outstation Taxi- Hire Car, Cab, Taxi Service, Outstation Taxi From Delhi","isPartOf":{"@id":"https://suritours.in/#website"},"about":{"@id":"https://suritours.in/#organization"},"image":{"@type":"ImageObject","@id":"https://suritours.in/#primaryimage","url":"https://suritours.in/img/innovacrysta.webp","width":800,"height":246,"caption":"Outstation Taxi Service delhi"},"primaryImageOfPage":{"@id":"https://suritours.in/#primaryimage"},"datePublished":"2013-01-23T16:28:39+00:00","dateModified":"2021-04-10T14:23:37+00:00","description":"Outstation Cabs Delhi- Outstation Taxi/Cab booking in Delhi, We offer Cheap Fare for Outstation from Delhi at Rs.9/km. Online Taxi, Cab & Car from Delhi."}]}</script>
 <meta name="theme-color" content="#f2670e" /><link rel="stylesheet" href="ncss/style.min.css"><script type="text/javascript" src="njs/jquery.2.1.4.min.js"></script><style>.sect p {line-height: 2;text-align: justify;}</style>
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqlG8izc3oQj8pgf0b0moJHJs-8qCEUUU&amp;libraries=places&amp;region=in"></script>
+<!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqlG8izc3oQj8pgf0b0moJHJs-8qCEUUU&amp;libraries=places&amp;region=in"></script> -->
 </head>
 
 <body itemtype='https://schema.org/WebPage' itemscope='itemscope'
@@ -1617,6 +1618,7 @@ flexibility(document.documentElement);
 									<div class="ast-custom-html">24x7 Customer Helpline : +91 - 9871559871</div>
 								</div> <!-- .above-header-user-select.user-select -->
 							</div>
+							
 
 							<div
 								class="ast-above-header-section ast-above-header-section-2 ast-flex ast-justify-content-flex-end widget-above-header">
@@ -1906,9 +1908,9 @@ flexibility(document.documentElement);
 														<!DOCTYPE html><html lang="en">
 <script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tomartravel.com#organization","name":"Outstation Car Hire by Suri Tours","url":"https://tomartravel.com","sameAs":["https://www.facebook.com/outstationtaxidelhi"],"contactPoint": {"@type": "ContactPoint","contactType": "customer support","telephone": "+91-8800266954","email": "bookings@suritours.in"},"logo":{"@type":"ImageObject","@id":"https://tomartravel.com#logo","url":"https://tomartravel.comimg/brandlogo.png","width":200,"height":93,"caption":"Suri Outstation Taxi Service"},"image":{"@id":"https://tomartravel.com#logo"}},{"@type":"WebSite","@id":"https://tomartravel.com#website","url":"https://tomartravel.com","name":"Outstation Car Hire by Suri Tours","publisher":{"@id":"https://tomartravel.com#organization"},"potentialAction":{"@type":"SearchAction","target":"https://tomartravel.com?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://tomartravel.com#webpage","url":"https://tomartravel.com","inLanguage":"en-US","name":"Outstation Taxi- Hire Car, Cab, Taxi Service, Outstation Taxi From Delhi","isPartOf":{"@id":"https://tomartravel.com#website"},"about":{"@id":"https://tomartravel.com#organization"},"image":{"@type":"ImageObject","@id":"https://tomartravel.com#primaryimage","url":"https://tomartravel.comimg/innovacrysta.webp","width":800,"height":246,"caption":"Outstation Taxi Service delhi"},"primaryImageOfPage":{"@id":"https://tomartravel.com#primaryimage"},"datePublished":"2013-01-23T16:28:39+00:00","dateModified":"2021-04-10T14:23:37+00:00","description":"Outstation Cabs Delhi- Outstation Taxi/Cab booking in Delhi, We offer Cheap Fare for Outstation from Delhi at Rs.9/km. Online Taxi, Cab & Car from Delhi."}]}</script>
 <meta name="theme-color" content="#f2670e" /><link rel="stylesheet" href="ncss/style.min.css"><script type="text/javascript" src="njs/jquery.2.1.4.min.js"></script><style>.sect p {line-height: 2;text-align: justify;}</style>
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqlG8izc3oQj8pgf0b0moJHJs-8qCEUUU&amp;libraries=places&amp;region=in"></script>
+<!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqlG8izc3oQj8pgf0b0moJHJs-8qCEUUU&amp;libraries=places&amp;region=in"></script> -->
  <body>
-<div class="col-md-4"><div class=""><ul class="nav nav-tabs">
+<div class="col-md-4" ><div class=""><ul class="nav nav-tabs">
 <li class="active"><a data-toggle="tab" href="#round"><i class="fa fa-exchange" aria-hidden="true"></i>&nbsp; Round Trip</a></li>
 <li><a data-toggle="tab" href="#oneway"><i class="fa fa-location-arrow" aria-hidden="true"></i>&nbsp; One Way</a></li>
 </ul></div>
@@ -1983,18 +1985,19 @@ flexibility(document.documentElement);
 
 
 
-<script src="../code.jquery.com/jquery-1.12.4.js"></script><script src="../code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="./code.jquery.com/jquery-1.12.4.js"></script><script src="./code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script type="text/javascript">function myFunction() {if (screen.width <= 699) {document.getElementById("view").value = "Mobile";
 document.getElementById("oneview").value = "Mobile";}else{document.getElementById("view").value = "Desktop";document.getElementById("oneview").value = "Desktop";}}</script>
 <script>$("#dep_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1,minDate: +0,
 onSelect: function(dateText, inst) {var date = $.datepicker.parseDate('yy/mm/dd', dateText);date.setDate(date.getDate() + 0);
 var $ret_date = $("#ret_date");$ret_date.datepicker("setDate", date);$ret_date.datepicker("option", "minDate", date);}});
 $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_date" ).datepicker({minDate: +0,});$( "#ldate" ).datepicker({minDate: +0,});</script>
-<link rel="stylesheet" href="../code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="./code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 <!-- Modal-form - Open --><div class="modal fade modal-style" id="modal-form" role="dialog"><div class="modal-dialog"><div class="modal-content card"><button type="button" class="close" data-dismiss="modal"> X</button><div class="modal-bk-form"><div class="modal-form-head bg-theme"><div class="img hidden-xs"> <img src="nimg/icons/paper-plane.png" alt="DROP AN ENQUIRY" title="DROP AN ENQUIRY"> </div><div class="content"><p>DROP AN ENQUIRY</p><span>Our Team will revert you Shortly</span></div></div><form id="form-ara"><div class="row"><div class="col-md-6 form-group"><label>Full Name*</label><div class="input-box p-rel"><div class="input-icon"> <i class="fa fa-user-o"></i> </div><input type="text" name="name" id="sqname" class="form-control" placeholder="Your Name" ></div></div><div class="col-md-6 form-group"><label>10 Digit Mobile No*</label><div class="input-box p-rel"><div class="input-icon"> <i class="fa fa-phone"></i> </div>
 <input type="tel" name="mobile"  id="sqmobile" class="form-control" placeholder="10 Digit Mobile no" required value=""></div></div><div class="col-md-12 form-group"><label>Query*</label><div class="input-box p-rel"><div class="input-icon"> <i class="fa fa-commenting-o"></i> </div><textarea name="message" id="sqmessage"  placeholder="Share your Message.*" class="form-control" ></textarea></div></div><div class="col-md-12"><button type="button" onclick="myenq()" class="btn btn-success float-right text-uppercase"> <i class="fa fa-paper-plane-o"></i> Submit</button></div></div></form><style>#succes{display:none;padding:25px;}</style><div class="container" id="succes"><p>Thanks, We will get back to you soon.</p></div></div></div></div></div><script>function myenq(){var sqnaam =document.getElementById("sqname").value;var sqmobile =document.getElementById("sqmobile").value;var sqmessage =document.getElementById("sqmessage").value;var landurl = 'index.html';if(sqnaam=='' || sqmobile=='' || sqmessage==''){alert ("PLease Fill all inputs");}else{var dataString='sqnaam=' + sqnaam + '&sqmobile=' + sqmobile + '&sqmessage=' + sqmessage + '&landurl=' + landurl;$.ajax({type: "POST",url: "https://tomartravel.comtourinquiry.php",data: dataString,cache: false,success: function(html){$("#form-ara").slideUp();document.getElementById("succes").style.display="block";alert(html);}});}}</script><script src="njs/bootstrap.min.js"> </script><script src="njs/main.min.js"> </script><!-- Clarity tracking code for https://tomartravel.com --><script>(function(c, l, a, r, i, t, y) {c[a] = c[a] || function() {(c[a].q = c[a].q || []).push(arguments)};t = l.createElement(r);t.async = 1;t.src = "https://www.clarity.ms/tag/" + i;y = l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t, y);})(window, document, "clarity", "script", "58bt3opulp");</script><script type="text/javascript">google.maps.event.addDomListener(window, 'load', function () {var rtplaces = new google.maps.places.Autocomplete(document.getElementById('droppoint'));
-var rtplaces = new google.maps.places.Autocomplete(document.getElementById('odroppoint'));google.maps.event.addListener(rtplaces, 'place_changed', function () {});});</script>
-</div><link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&amp;display=swap" rel="stylesheet">
+// var rtplaces = new google.maps.places.Autocomplete(document.getElementById('odroppoint'));google.maps.event.addListener(rtplaces, 'place_changed', function () {});});</script>
+</div>
+// <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&amp;display=swap" rel="stylesheet">
 
 </body>
 
@@ -2314,17 +2317,18 @@ var rtplaces = new google.maps.places.Autocomplete(document.getElementById('odro
 												box-shadow: 0 2px 15px 0 rgba(51, 51, 51, 1);
 											}
 										</style>
-										<script src="../code.jquery.com/jquery-1.12.4.js"></script><script src="../code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+										<script src="./code.jquery.com/jquery-1.12.4.js"></script><script src="./code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script type="text/javascript">function myFunction() {if (screen.width <= 699) {document.getElementById("view").value = "Mobile";
 document.getElementById("oneview").value = "Mobile";}else{document.getElementById("view").value = "Desktop";document.getElementById("oneview").value = "Desktop";}}</script>
 <script>$("#dep_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1,minDate: +0,
 onSelect: function(dateText, inst) {var date = $.datepicker.parseDate('yy/mm/dd', dateText);date.setDate(date.getDate() + 0);
 var $ret_date = $("#ret_date");$ret_date.datepicker("setDate", date);$ret_date.datepicker("option", "minDate", date);}});
 $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_date" ).datepicker({minDate: +0,});$( "#ldate" ).datepicker({minDate: +0,});</script>
-<link rel="stylesheet" href="../code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="./code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 
 <!DOCTYPE html>
 <html lang="en">
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
 <head>
       <link rel="stylesheet" href="ncss/style.min.css">
       <script type="text/javascript" src="njs/jquery.2.1.4.min.js"></script>
@@ -2395,8 +2399,9 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
                 
                      <div class="col-md-6 col-xs-35">
-                      
-                        <ul class="ul-list" style="padding-left:300px;list-style:none;">
+	
+                        <ul class="ul-list" style="padding-left:20px;list-style:none;"
+>
                       
                            <li><i class="fa fa-check-square-o"></i> Largest Outstation Taxi Service in Delhi</li>
                            <li><i class="fa fa-check-square-o"></i> Transparent Pricing, No hidden Charges</li>
@@ -2578,8 +2583,8 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
  
 
   
-      <script src="../code.jquery.com/jquery-1.12.4.js"></script>
-	  <script src="../code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+      <script src="./code.jquery.com/jquery-1.12.4.js"></script>
+	  <script src="./code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
       <script type="text/javascript">function myFunction() {if (screen.width <= 699) {document.getElementById("view").value = "Mobile";
 
          document.getElementById("oneview").value = "Mobile";}else{document.getElementById("view").value = "Desktop";document.getElementById("oneview").value = "Desktop";}}
@@ -2595,7 +2600,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
       </script>
 
-      <link rel="stylesheet" href="../code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+      <link rel="stylesheet" href="./code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 
       <!-- Footer - Start -->
 
@@ -2825,7 +2830,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
       <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-      <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&amp;display=swap" rel="stylesheet">
+    //   <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&amp;display=swap" rel="stylesheet">
 <!-- GetButton.io widget -->
 <!-- <script type="text/javascript">
     (function () {
