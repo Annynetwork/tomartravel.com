@@ -245,7 +245,7 @@
 		h6,
 		.entry-content h6,
 		.wc-block-grid__product-title {
-			color: #7a7a7a;
+			color: #faf7f7;
 		}
 
 		.tagcloud a:hover,
@@ -258,7 +258,7 @@
 
 		.main-header-menu .menu-link,
 		.ast-header-custom-item a {
-			color: #7a7a7a;
+			color: #faf7f7;
 		}
 
 		.main-header-menu .menu-item:hover>.menu-link,
@@ -316,7 +316,7 @@
 
 		.footer-adv .footer-adv-overlay {
 			border-top-style: solid;
-			border-top-color: #7a7a7a;
+			border-top-color: #faf7f7;
 		}
 
 		.ast-comment-meta {
@@ -353,7 +353,7 @@
 		.widget-title {
 			font-size: 22px;
 			font-size: 1.375rem;
-			color: #7a7a7a;
+			color: #faf7f7;
 		}
 
 		#cat option,
@@ -1446,7 +1446,7 @@
 		.ast-header-break-point .ast-below-header-merged-responsive .below-header-user-select,
 		.ast-header-break-point .ast-below-header-merged-responsive .below-header-user-select .widget,
 		.ast-header-break-point .ast-below-header-merged-responsive .below-header-user-select .widget-title {
-			color: #7a7a7a;
+			color: #faf7f7;
 		}
 
 		.ast-header-break-point .ast-below-header-merged-responsive .below-header-user-select a {
@@ -1545,7 +1545,6 @@ flexibility(document.documentElement);
 </script>
 <![endif]-->
 <link rel="apple-touch-icon" href="images/favicon.ico" type="image/gif" sizes="16x16">
-<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://suritours.in/#organization","name":"Outstation Car Hire by Suri Tours","url":"https://suritours.in/","sameAs":["https://www.facebook.com/outstationtaxidelhi"],"contactPoint": {"@type": "ContactPoint","contactType": "customer support","telephone": "+91-8800266954","email": "bookings@suritours.in"},"logo":{"@type":"ImageObject","@id":"https://suritours.in/#logo","url":"https://suritours.in/img/brandlogo.png","width":200,"height":93,"caption":"Suri Outstation Taxi Service"},"image":{"@id":"https://suritours.in/#logo"}},{"@type":"WebSite","@id":"https://suritours.in/#website","url":"https://suritours.in/","name":"Outstation Car Hire by Suri Tours","publisher":{"@id":"https://suritours.in/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://suritours.in/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://suritours.in/#webpage","url":"https://suritours.in/","inLanguage":"en-US","name":"Outstation Taxi- Hire Car, Cab, Taxi Service, Outstation Taxi From Delhi","isPartOf":{"@id":"https://suritours.in/#website"},"about":{"@id":"https://suritours.in/#organization"},"image":{"@type":"ImageObject","@id":"https://suritours.in/#primaryimage","url":"https://suritours.in/img/innovacrysta.webp","width":800,"height":246,"caption":"Outstation Taxi Service delhi"},"primaryImageOfPage":{"@id":"https://suritours.in/#primaryimage"},"datePublished":"2013-01-23T16:28:39+00:00","dateModified":"2021-04-10T14:23:37+00:00","description":"Outstation Cabs Delhi- Outstation Taxi/Cab booking in Delhi, We offer Cheap Fare for Outstation from Delhi at Rs.9/km. Online Taxi, Cab & Car from Delhi."}]}</script>
 <meta name="theme-color" content="#f2670e" /><link rel="stylesheet" href="ncss/style.min.css"><script type="text/javascript" src="njs/jquery.2.1.4.min.js"></script><style>.sect p {line-height: 2;text-align: justify;}</style>
 <!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqlG8izc3oQj8pgf0b0moJHJs-8qCEUUU&amp;libraries=places&amp;region=in"></script> -->
 	<!--<script src='wp-includes/js/jquery/jquery.min9d52.js?ver=3.5.1' id='jquery-core-js'></script>-->
@@ -1594,7 +1593,7 @@ flexibility(document.documentElement);
 		}
 	</style>
 	<link rel="apple-touch-icon" href="images/favicon.ico" type="image/gif" sizes="16x16">
-<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://suritours.in/#organization","name":"Outstation Car Hire by Suri Tours","url":"https://suritours.in/","sameAs":["https://www.facebook.com/outstationtaxidelhi"],"contactPoint": {"@type": "ContactPoint","contactType": "customer support","telephone": "+91-8800266954","email": "bookings@suritours.in"},"logo":{"@type":"ImageObject","@id":"https://suritours.in/#logo","url":"https://suritours.in/img/brandlogo.png","width":200,"height":93,"caption":"Suri Outstation Taxi Service"},"image":{"@id":"https://suritours.in/#logo"}},{"@type":"WebSite","@id":"https://suritours.in/#website","url":"https://suritours.in/","name":"Outstation Car Hire by Suri Tours","publisher":{"@id":"https://suritours.in/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://suritours.in/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://suritours.in/#webpage","url":"https://suritours.in/","inLanguage":"en-US","name":"Outstation Taxi- Hire Car, Cab, Taxi Service, Outstation Taxi From Delhi","isPartOf":{"@id":"https://suritours.in/#website"},"about":{"@id":"https://suritours.in/#organization"},"image":{"@type":"ImageObject","@id":"https://suritours.in/#primaryimage","url":"https://suritours.in/img/innovacrysta.webp","width":800,"height":246,"caption":"Outstation Taxi Service delhi"},"primaryImageOfPage":{"@id":"https://suritours.in/#primaryimage"},"datePublished":"2013-01-23T16:28:39+00:00","dateModified":"2021-04-10T14:23:37+00:00","description":"Outstation Cabs Delhi- Outstation Taxi/Cab booking in Delhi, We offer Cheap Fare for Outstation from Delhi at Rs.9/km. Online Taxi, Cab & Car from Delhi."}]}</script>
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tomartravel.com/#organization","name":"Outstation Car Hire by Tomar Travel","url":"https://tomartravel.com/","sameAs":["https://www.facebook.com/Tomar2002"],"contactPoint": {"@type": "ContactPoint","contactType": "customer support","telephone": "+91-9871559871","email": "info@tomartravel.com"},"logo":{"@type":"ImageObject","@id":"https://tomartravel.com/#logo","url":"https://tomartravel.com/img/brandlogo.png","width":200,"height":93,"caption":"Tomar Outstation Taxi Service"},"image":{"@id":"https://tomartravel.com/#logo"}},{"@type":"WebSite","@id":"https://tomartravel.com/#website","url":"https://tomartravel.com/","name":"Outstation Car Hire by Tomar Travel","publisher":{"@id":"https://tomartravel.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://tomartravel.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://tomartravel.com/#webpage","url":"https://tomartravel.com/","inLanguage":"en-US","name":"Outstation Taxi- Hire Car, Cab, Taxi Service, Outstation Taxi From Delhi","isPartOf":{"@id":"https://tomartravel.com/#website"},"about":{"@id":"https://tomartravel.com/#organization"},"image":{"@type":"ImageObject","@id":"https://tomartravel.com/#primaryimage","url":"https://tomartravel.com/img/innovacrysta.webp","width":800,"height":246,"caption":"Outstation Taxi Service delhi"},"primaryImageOfPage":{"@id":"https://tomartravel.com/#primaryimage"},"datePublished":"2013-01-23T16:28:39+00:00","dateModified":"2021-04-10T14:23:37+00:00","description":"Outstation Cabs Delhi- Outstation Taxi/Cab booking in Delhi, We offer Cheap Fare for Outstation from Delhi at Rs.9/km. Online Taxi, Cab & Car from Delhi."}]}</script>
 <meta name="theme-color" content="#f2670e" /><link rel="stylesheet" href="ncss/style.min.css"><script type="text/javascript" src="njs/jquery.2.1.4.min.js"></script><style>.sect p {line-height: 2;text-align: justify;}</style>
 <!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqlG8izc3oQj8pgf0b0moJHJs-8qCEUUU&amp;libraries=places&amp;region=in"></script> -->
 </head>
@@ -1632,7 +1631,7 @@ flexibility(document.documentElement);
 											class="astra-widget-social-profiles-inner clearfix inline circle-outline icon-custom-color">
 											<ul>
 												<li>
-													<a href="https://www.facebook.com/tomartravels"
+													<a href="https://www.facebook.com/Tomar2002"
 														target="_blank" rel="noopener nofollow" aria-label="facebook-f">
 														<span class="ast-widget-icon facebook-f">
 															<svg xmlns="http://www.w3.org/2000/svg"
@@ -1645,7 +1644,7 @@ flexibility(document.documentElement);
 													</a>
 												</li>
 												<li>
-													<a href="https://www.instagram.com/tomartravels/" target="_self"
+													<a href="https://www.instagram.com/Tomar2002" target="_self"
 														rel="noopener nofollow" aria-label="instagram">
 														<span class="ast-widget-icon instagram">
 															<svg xmlns="http://www.w3.org/2000/svg"
@@ -1658,7 +1657,7 @@ flexibility(document.documentElement);
 													</a>
 												</li>
 												<li>
-													<a href="https://twitter.com/tomartravels" target="_self"
+													<a href="https://twitter.com/Tomar2002" target="_self"
 														rel="noopener nofollow" aria-label="twitter">
 														<span class="ast-widget-icon twitter">
 															<svg xmlns="http://www.w3.org/2000/svg"
@@ -1876,21 +1875,11 @@ flexibility(document.documentElement);
 																				Tomar Travels</h2>
 																		</div>
 																	</div>
-																	<div class="elementor-element elementor-element-552741f elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-																		data-id="552741f" data-element_type="widget"
-																		data-widget_type="divider.default">
-																		<div class="elementor-widget-container">
-																			<div class="elementor-divider">
-																				<span
-																					class="elementor-divider-separator">
-																				</span>
-																			</div>
-																		</div>
-																	</div>
+										
 																	<div class="elementor-element elementor-element-37dbd601 elementor-widget elementor-widget-heading"
 																		data-id="37dbd601" data-element_type="widget"
 																		data-widget_type="heading.default">
-																		<div class="col-md-6 col-xs-6"><img src="img/innovacrysta.webp" class="img-responsive" alt="Outstation Cabs Hire in Delhi" title="Hire Innova for Outstation in Delhi">
+																		<div class="col-md-6 col-xs-6"><img src="img/innovacrysta.png" class="img-responsive" alt="Outstation Cabs Hire in Delhi" title="Hire Innova for Outstation in Delhi">
 </div>
 																		<div class="elementor-widget-container">
 																			
@@ -1906,7 +1895,7 @@ flexibility(document.documentElement);
 														
 													
 														<!DOCTYPE html><html lang="en">
-<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tomartravel.com#organization","name":"Outstation Car Hire by Suri Tours","url":"https://tomartravel.com","sameAs":["https://www.facebook.com/outstationtaxidelhi"],"contactPoint": {"@type": "ContactPoint","contactType": "customer support","telephone": "+91-8800266954","email": "bookings@suritours.in"},"logo":{"@type":"ImageObject","@id":"https://tomartravel.com#logo","url":"https://tomartravel.comimg/brandlogo.png","width":200,"height":93,"caption":"Suri Outstation Taxi Service"},"image":{"@id":"https://tomartravel.com#logo"}},{"@type":"WebSite","@id":"https://tomartravel.com#website","url":"https://tomartravel.com","name":"Outstation Car Hire by Suri Tours","publisher":{"@id":"https://tomartravel.com#organization"},"potentialAction":{"@type":"SearchAction","target":"https://tomartravel.com?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://tomartravel.com#webpage","url":"https://tomartravel.com","inLanguage":"en-US","name":"Outstation Taxi- Hire Car, Cab, Taxi Service, Outstation Taxi From Delhi","isPartOf":{"@id":"https://tomartravel.com#website"},"about":{"@id":"https://tomartravel.com#organization"},"image":{"@type":"ImageObject","@id":"https://tomartravel.com#primaryimage","url":"https://tomartravel.comimg/innovacrysta.webp","width":800,"height":246,"caption":"Outstation Taxi Service delhi"},"primaryImageOfPage":{"@id":"https://tomartravel.com#primaryimage"},"datePublished":"2013-01-23T16:28:39+00:00","dateModified":"2021-04-10T14:23:37+00:00","description":"Outstation Cabs Delhi- Outstation Taxi/Cab booking in Delhi, We offer Cheap Fare for Outstation from Delhi at Rs.9/km. Online Taxi, Cab & Car from Delhi."}]}</script>
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tomartravel.com#organization","name":"Outstation Car Hire by Tomar Travel","url":"https://tomartravel.com","sameAs":["https://www.facebook.com/outstationtaxidelhi"],"contactPoint": {"@type": "ContactPoint","contactType": "customer support","telephone": "+91-9871559871","email": "info@tomartravel.com"},"logo":{"@type":"ImageObject","@id":"https://tomartravel.com#logo","url":"https://tomartravel.comimg/brandlogo.png","width":200,"height":93,"caption":"Tomar Outstation Taxi Service"},"image":{"@id":"https://tomartravel.com#logo"}},{"@type":"WebSite","@id":"https://tomartravel.com#website","url":"https://tomartravel.com","name":"Outstation Car Hire by Tomar Travel","publisher":{"@id":"https://tomartravel.com#organization"},"potentialAction":{"@type":"SearchAction","target":"https://tomartravel.com?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://tomartravel.com#webpage","url":"https://tomartravel.com","inLanguage":"en-US","name":"Outstation Taxi- Hire Car, Cab, Taxi Service, Outstation Taxi From Delhi","isPartOf":{"@id":"https://tomartravel.com#website"},"about":{"@id":"https://tomartravel.com#organization"},"image":{"@type":"ImageObject","@id":"https://tomartravel.com#primaryimage","url":"https://tomartravel.comimg/innovacrysta.webp","width":800,"height":246,"caption":"Outstation Taxi Service delhi"},"primaryImageOfPage":{"@id":"https://tomartravel.com#primaryimage"},"datePublished":"2013-01-23T16:28:39+00:00","dateModified":"2021-04-10T14:23:37+00:00","description":"Outstation Cabs Delhi- Outstation Taxi/Cab booking in Delhi, We offer Cheap Fare for Outstation from Delhi at Rs.9/km. Online Taxi, Cab & Car from Delhi."}]}</script>
 <meta name="theme-color" content="#f2670e" /><link rel="stylesheet" href="ncss/style.min.css"><script type="text/javascript" src="njs/jquery.2.1.4.min.js"></script><style>.sect p {line-height: 2;text-align: justify;}</style>
 <!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqlG8izc3oQj8pgf0b0moJHJs-8qCEUUU&amp;libraries=places&amp;region=in"></script> -->
  <body>
@@ -2492,7 +2481,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
                      <div class="new-launch-item bg-white col-mb">
 
-                        <div class="new-launch-img p-rel"><img src="img/dzire.jpg" alt="Dzire on rent in Delhi" title="Dzire on rent in Delhi" class="img-full img-cover"></div>
+                        <div class="new-launch-img p-rel"><img src="img/dzire1.jpg" alt="Dzire on rent in Delhi" title="Dzire on rent in Delhi" class="img-full img-cover"></div>
 
                         <div class="new-launch-content">
 
@@ -2520,7 +2509,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
                      <div class="new-launch-item bg-white col-mb">
 
-                        <div class="new-launch-img p-rel"><img src="img/new-ertiga.webp" alt="Ertiga Taxi hire in Delhi" title="Ertiga Taxi hire in Delhi" class="img-full img-cover"></div>
+                        <div class="new-launch-img p-rel"><img src="img/SUV.jpg" alt="Ertiga Taxi hire in Delhi" title="Ertiga Taxi hire in Delhi" class="img-full img-cover"></div>
 
                         <div class="new-launch-content">
 
@@ -2543,36 +2532,19 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
                   </div>
 
-                  <div class="col-sm-6 col-md-4">
-
-                     <!--<p class="cabfares">Innova Taxi fare in Delhi</p>-->
+               
 
                      <div class="new-launch-item bg-white col-mb">
 
-                        <div class="new-launch-img p-rel"><img src="img/toyotainnova.webp" alt="Innova hire in Delhi" title="Innova hire in Delhi" class="img-full img-cover"></div>
+                        <div class="new-launch-img p-rel"><img src="img/PREMIUM-SUV.jpg" alt="Innova hire in Delhi" title="Innova hire in Delhi" class="img-full img-cover"></div>
 
-                        <div class="new-launch-content">
-
-                           <div class="row">
-
-                              <div class="col-md-10 col-mb-20">
-
-                                 <!-- <h1>Toyota Innova</h1> -->
-
-                                 
-
-                              </div>
-
-                              
-                           </div>
-
-                        </div>
+                    
 
                      </div>
 
                   </div>
 
-               </div>
+               
 
             </div>
 
@@ -2611,7 +2583,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
             <div class="row">
                <div class="col-md-3 col-mb-30">
                   <p class="fhead heading-title">About us</p>
-                  <p class="text-justify"><b><a>Car Hire in Delhi</a></b> by XRI Taxi &amp; Car Rental service provider in Delhi-NCR. We are into this service from last 20 years for Taxi Tour Service. We deals in : <strong>Taxi service for Outstation</strong>, also <strong>Car hire for Outstation</strong>, or <strong>Taxi Service in Delhi</strong>, and other North India tour packages.</p>
+                  <p class="text-justify"><b><a>Car Hire in Delhi</a></b> by Tomar Travel &amp; Car Rental service provider in Delhi-NCR. We are into this service from last 20 years for Taxi Tour Service. We deals in : <strong>Taxi service for Outstation</strong>, also <strong>Car hire for Outstation</strong>, or <strong>Taxi Service in Delhi</strong>, and other North India tour packages.</p>
                </div>
 
                <div class="col-md-3 col-mb-30">
@@ -2669,7 +2641,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
                         <li>
 
-                           <p><i class="fa fa-map-marker" aria-hidden="true"></i> Sector 21 Dwarika, New Delhi India - 110075</p>
+                           <p><i class="fa fa-map-marker" aria-hidden="true"></i> Sector 06 Dwarka, New Delhi India - 110075</p>
 
                         </li>
 
@@ -2830,7 +2802,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
       <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-    //   <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&amp;display=swap" rel="stylesheet">
 <!-- GetButton.io widget -->
 <!-- <script type="text/javascript">
     (function () {
