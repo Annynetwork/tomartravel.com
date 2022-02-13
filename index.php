@@ -353,7 +353,7 @@
 		.widget-title {
 			font-size: 22px;
 			font-size: 1.375rem;
-			color: #faf7f7;
+			color: #ffffff;
 		}
 
 		#cat option,
@@ -1600,10 +1600,14 @@ flexibility(document.documentElement);
 
 <body itemtype='https://schema.org/WebPage' itemscope='itemscope'
 	class="home page-template-default page page-id-384 wp-custom-logo ehf-footer ehf-template-astra ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-2.6.2 ast-header-custom-item-inside ast-single-post ast-inherit-site-logo-transparent above-header-nav-padding-support elementor-default elementor-kit-354 elementor-page elementor-page-384 astra-addon-2.7.3">
-<header
+
+
+	<header
 			class="site-header ast-primary-submenu-animation-fade header-main-layout-1 ast-primary-menu-enabled ast-logo-title-inline ast-hide-custom-menu-mobile ast-menu-toggle-icon ast-mobile-header-inline ast-above-header-enabled ast-above-header-section-separated ast-above-header-mobile-stack ast-below-header-mobile-stack"
 			id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead">
 <div class="ast-above-header-wrap ast-above-header-1">
+
+
 				<div class="ast-above-header">
 					<div class="ast-container">
 
@@ -1611,10 +1615,53 @@ flexibility(document.documentElement);
 
 							<div
 								class="ast-above-header-section ast-above-header-section-1 ast-flex ast-justify-content-flex-start text-html-above-header">
-								<div><a href="./" class="menu-link">Tomar Travel</a> &nbsp; &nbsp;
-									&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	</div>
+								<div><a href="./" class="menu-link">Tomar Travel</a> &nbsp; </div>
 								<div class="above-header-user-select user-select">
-									<div class="ast-custom-html">24x7 Customer Helpline : +91 - 9871559871</div>
+<html lang="en">
+
+<head>
+    <!-- <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+    <link rel="stylesheet" type="text/css" href="css1/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css1/style.css">
+    <link rel="stylesheet" type="text/css" href="css1/responsive.css">
+    <link rel="stylesheet" type="text/css" href="css1/slider.css">
+    <!-- <link rel="stylesheet" type="text/css" href="css1/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="css1/owl.theme.default.min.css"> -->
+    <!-- <link rel="stylesheet" type="text/css" href="css1/jquery.fancybox.min.css"> -->
+    <!-- <link rel='stylesheet' id='font-awesome-css'  href='css1/font-awesome.min.css' type='text/css' media='all' /> -->
+</head>
+
+<body>
+        <header> 
+		
+           
+                <nav class="navbar navbar-expand-lg navbar-light">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button><!-- End of Navbar toggler -->
+                    <div class="collapse navbar-collapse justify-content-end ts-navbar" id="navbarSupportedContent">
+                        <div id="primary-nav" class="menu-main-menu-container">
+                            <ul id="main-menu" class="navbar-nav">
+                                <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
+                                <li class="nav-item"><a href="#" class="nav-link">About Us</a></li>
+                                <li class="nav-item dropdown"><a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Services</a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item"><a href="#" class=" dropdown-item">Corporate Car Rental</a> </li>
+                                        <li class="nav-item"><a href="#" class=" dropdown-item">Cab Services</a> </li>
+                                     
+                                    </ul>
+                                </li>
+                                
+                                <li class="nav-item"><a href="#" class="nav-link">Pay Online</a></li>
+                                <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
+                            </ul>
+                        </div>
+                    
+				<div class="ast-custom-html">
+									
+									
+									24x7 Customer Helpline : +91 - 9871559871</div>
 								</div> <!-- .above-header-user-select.user-select -->
 							</div>
 							
@@ -1623,6 +1670,7 @@ flexibility(document.documentElement);
 								class="ast-above-header-section ast-above-header-section-2 ast-flex ast-justify-content-flex-end widget-above-header">
 								<div class="above-header-widget above-header-user-select">
 									<div id="custom_html-3" class="widget_text widget widget_custom_html">
+										
 										<div class="textwidget custom-html-widget">Follow us:</div>
 									</div>
 									<div id="astra-widget-social-profiles-4"
@@ -1692,8 +1740,149 @@ flexibility(document.documentElement);
 					</div><!-- .ast-container -->
 				</div><!-- .ast-above-header -->
 			</div><!-- .ast-above-header-wrap -->
+			</div> <!-- End of navbar collapse -->
+                </nav> <!-- End of Nav -->
+    </header>
 
 
+
+
+<script type="text/javascript" src='js1/jquery.min.js'></script>
+<script type="text/javascript" src="js1/bootstrap.min.js"></script>
+<script type="text/javascript" src="js1/popper.min.js"></script>
+<script type="text/javascript" src="js1/slider.js"></script>
+<script type="text/javascript" src="js1/owl.carousel.min.js"></script>
+<script type="text/javascript" src="js1/jquery.fancybox.min.js"></script>
+
+<script type="text/javascript">
+var a = 0;
+    $(window).scroll(function() {
+
+  var oTop = $('#counter').offset().top - window.innerHeight;
+  if (a == 0 && $(window).scrollTop() > oTop) {
+    $('.counter-value').each(function() {
+      var $this = $(this),
+        countTo = $this.attr('data-count');
+      $({
+        countNum: $this.text()
+      }).animate({
+          countNum: countTo
+        },
+        {
+
+          duration: 2000,
+          easing: 'swing',
+          step: function() {
+            $this.text(Math.floor(this.countNum));
+          },
+          complete: function() {
+            $this.text(this.countNum);
+            //alert('finished');
+          }
+        });
+    });
+    a = 1;
+  }
+
+});
+
+
+    // On scroll
+$(".back-to-top").click(function() {
+  $('html, body').animate({ scrollTop: 0 }, 'slow');
+  return false;
+});
+</script>
+
+
+<script type="text/javascript">
+    $('.services_slider').owlCarousel({
+        loop:true,
+        margin:30,
+        nav:true,
+        dots:false,
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:1
+            },
+            1000:{
+                items:3
+            }
+        }
+    })
+
+    $('.other_slider').owlCarousel({
+        loop:true,
+        margin:30,
+        nav:true,
+        dots:false,
+        autoplay:true,
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:1
+            },
+            1000:{
+                items:3
+            }
+        }
+    })
+
+    $('.destination_slider').owlCarousel({
+        loop:true,
+        margin:30,
+        nav:true,
+        dots:false,
+        autoplay:true,
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:1
+            },
+            1000:{
+                items:3
+            }
+        }
+    })
+</script>
+
+<script type="text/javascript">
+  $('.client_slider').owlCarousel({
+    loop:true,
+    margin:30,
+    dots:false,
+    autoplay:true,
+    nav:false,
+    autoplayTimeout:1000,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:5
+        }
+    }
+})
+</script>
+
+
+
+
+									
+
+			</body>
+
+</html>
 		
 			<div data-elementor-type="wp-page" data-elementor-id="384" class="elementor elementor-384"
 				data-elementor-settings="[]">
@@ -1703,6 +1892,7 @@ flexibility(document.documentElement);
 							class="elementor-section elementor-top-section elementor-element elementor-element-9ea7477 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
 							data-id="9ea7477" data-element_type="section"
 							data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							
 							<div class="elementor-container elementor-column-gap-no">
 								<div class="elementor-row">
 									<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-c29fd79"
@@ -2552,7 +2742,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
       </div>
 
- 
+	 
 
   
       <script src="./code.jquery.com/jquery-1.12.4.js"></script>
@@ -2609,7 +2799,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
                   <p class="fhead heading-title">Top Locations</p>
                   <div class="footlinks">
-                     <ul>
+                     <ul style="color:#FFFFFF">
                         <li><a title="Delhi to Haridwar Cab">Delhi to Haridwar Cab</a></li>
 
                         <li><a title="Delhi to Nainital Cab">Delhi to Nainital Cab</a></li>
