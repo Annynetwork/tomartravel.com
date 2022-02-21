@@ -24,6 +24,7 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v15.8 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Car Rental Services | Tomar Travels</title>
+
 	<meta name="description"
 		content="Looking For Car Rental in Delhi & NCR? Tomar Travels provide the best service in car rentals without any wait." />
 	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -44,7 +45,7 @@
 	<meta name="twitter:label1" content="Est. reading time">
 	<meta name="twitter:data1" content="13 minutes">
 	<script type="application/ld+json"
-		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"./","url":"./","name":"Tomar Travels","description":"","potentialAction":[{"@type":"SearchAction","target":"./?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"./#primaryimage","inLanguage":"en-US","url":"http://niosadmissions.co.in/orphic/./wp-content/uploads/2021/02/icon-01-free-img-1.png"},{"@type":"WebPage","@id":"./#webpage","url":"./","name":"Car Rental Services | Tomar Tour & Travels","isPartOf":{"@id":"./#website"},"primaryImageOfPage":{"@id":"./#primaryimage"},"datePublished":"2020-03-23T08:36:03+00:00","dateModified":"2021-08-08T14:07:15+00:00","description":"Looking For Car Rental in Delhi & NCR? Tomar Tour & Travels provide the best service in car rentals without any wait.","breadcrumb":{"@id":"./#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["./"]}]},{"@type":"BreadcrumbList","@id":"./#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"./","url":"./","name":"Home"}}]}]}</script>
+		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"./","url":"./images/logo.png","name":"Tomar Travels","description":"","potentialAction":[{"@type":"SearchAction","target":"./?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"./#primaryimage","inLanguage":"en-US","url":"http://niosadmissions.co.in/orphic/./wp-content/uploads/2021/02/icon-01-free-img-1.png"},{"@type":"WebPage","@id":"./#webpage","url":"./","name":"Car Rental Services | Tomar Tour & Travels","isPartOf":{"@id":"./#website"},"primaryImageOfPage":{"@id":"./#primaryimage"},"datePublished":"2020-03-23T08:36:03+00:00","dateModified":"2021-08-08T14:07:15+00:00","description":"Looking For Car Rental in Delhi & NCR? Tomar Tour & Travels provide the best service in car rentals without any wait.","breadcrumb":{"@id":"./#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["./"]}]},{"@type":"BreadcrumbList","@id":"./#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"./","url":"./","name":"Home"}}]}]}</script>
 	<meta name="google-site-verification" content="awyIguRX_nVtnk8uG1JKD9OqMg22v8OqPcKCXsi7p3I" />
 	<!-- / Yoast SEO plugin. -->
 
@@ -1544,7 +1545,10 @@
 flexibility(document.documentElement);
 </script>
 <![endif]-->
-<link rel="apple-touch-icon" href="images/favicon.ico" type="image/gif" sizes="16x16">
+<!-- <link rel="apple-touch-icon" href="images/favicon.ico" type="image/gif" sizes="16x16"> -->
+<link rel = "icon" href = 
+"https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" 
+        type = "image/x-icon">
 <meta name="theme-color" content="#f2670e" /><link rel="stylesheet" href="ncss/style.min.css"><script type="text/javascript" src="njs/jquery.2.1.4.min.js"></script><style>.sect p {line-height: 2;text-align: justify;}</style>
 <!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqlG8izc3oQj8pgf0b0moJHJs-8qCEUUU&amp;libraries=places&amp;region=in"></script> -->
 	<!--<script src='wp-includes/js/jquery/jquery.min9d52.js?ver=3.5.1' id='jquery-core-js'></script>-->
@@ -1592,16 +1596,19 @@ flexibility(document.documentElement);
 			display: none !important
 		}
 	</style>
-	<link rel="apple-touch-icon" href="images/favicon.ico" type="image/gif" sizes="16x16">
-<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tomartravel.com/#organization","name":"Outstation Car Hire by Tomar Travel","url":"https://tomartravel.com/","sameAs":["https://www.facebook.com/Tomar2002"],"contactPoint": {"@type": "ContactPoint","contactType": "customer support","telephone": "+91-9871559871","email": "info@tomartravel.com"},"logo":{"@type":"ImageObject","@id":"https://tomartravel.com/#logo","url":"https://tomartravel.com/img/brandlogo.png","width":200,"height":93,"caption":"Tomar Outstation Taxi Service"},"image":{"@id":"https://tomartravel.com/#logo"}},{"@type":"WebSite","@id":"https://tomartravel.com/#website","url":"https://tomartravel.com/","name":"Outstation Car Hire by Tomar Travel","publisher":{"@id":"https://tomartravel.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://tomartravel.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://tomartravel.com/#webpage","url":"https://tomartravel.com/","inLanguage":"en-US","name":"Outstation Taxi- Hire Car, Cab, Taxi Service, Outstation Taxi From Delhi","isPartOf":{"@id":"https://tomartravel.com/#website"},"about":{"@id":"https://tomartravel.com/#organization"},"image":{"@type":"ImageObject","@id":"https://tomartravel.com/#primaryimage","url":"https://tomartravel.com/img/innovacrysta.webp","width":800,"height":246,"caption":"Outstation Taxi Service delhi"},"primaryImageOfPage":{"@id":"https://tomartravel.com/#primaryimage"},"datePublished":"2013-01-23T16:28:39+00:00","dateModified":"2021-04-10T14:23:37+00:00","description":"Outstation Cabs Delhi- Outstation Taxi/Cab booking in Delhi, We offer Cheap Fare for Outstation from Delhi at Rs.9/km. Online Taxi, Cab & Car from Delhi."}]}</script>
-<meta name="theme-color" content="#f2670e" /><link rel="stylesheet" href="ncss/style.min.css"><script type="text/javascript" src="njs/jquery.2.1.4.min.js"></script><style>.sect p {line-height: 2;text-align: justify;}</style>
+	
+	<!-- <link rel="apple-touch-icon" href="images/favicon.ico" type="image/gif" sizes="16x16"> -->
+
+	<meta name="theme-color" content="#f2670e" /><link rel="stylesheet" href="ncss/style.min.css"><script type="text/javascript" src="njs/jquery.2.1.4.min.js"></script><style>.sect p {line-height: 2;text-align: justify;}</style>
 <!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqlG8izc3oQj8pgf0b0moJHJs-8qCEUUU&amp;libraries=places&amp;region=in"></script> -->
 </head>
 
 <body itemtype='https://schema.org/WebPage' itemscope='itemscope'
 	class="home page-template-default page page-id-384 wp-custom-logo ehf-footer ehf-template-astra ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-2.6.2 ast-header-custom-item-inside ast-single-post ast-inherit-site-logo-transparent above-header-nav-padding-support elementor-default elementor-kit-354 elementor-page elementor-page-384 astra-addon-2.7.3">
+	
+	
 
-
+	
 	<header
 			class="site-header ast-primary-submenu-animation-fade header-main-layout-1 ast-primary-menu-enabled ast-logo-title-inline ast-hide-custom-menu-mobile ast-menu-toggle-icon ast-mobile-header-inline ast-above-header-enabled ast-above-header-section-separated ast-above-header-mobile-stack ast-below-header-mobile-stack"
 			id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead">
@@ -1610,12 +1617,13 @@ flexibility(document.documentElement);
 
 				<div class="ast-above-header">
 					<div class="ast-container">
-
+					
 						<div class="ast-flex ast-above-header-section-wrap">
 
 							<div
 								class="ast-above-header-section ast-above-header-section-1 ast-flex ast-justify-content-flex-start text-html-above-header">
-								<div><a href="./" class="menu-link">Tomar Travel</a> &nbsp; </div>
+								<div><a href="./" class="menu-link"></a> 
+							</div>
 								<div class="above-header-user-select user-select">
 <html lang="en">
 
@@ -1637,11 +1645,15 @@ flexibility(document.documentElement);
 		
            
                 <nav class="navbar navbar-expand-lg navbar-light">
+			
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button><!-- End of Navbar toggler -->
+					<a href="./"><img src="./images/logo.png" alt="Tomar Travel" width="150" height="150"></a>
+			
                     <div class="collapse navbar-collapse justify-content-end ts-navbar" id="navbarSupportedContent">
-                        <div id="primary-nav" class="menu-main-menu-container">
+                        
+					<div id="primary-nav" class="menu-main-menu-container">
                             <ul id="main-menu" class="navbar-nav">
                                 <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">About Us</a></li>
@@ -1656,12 +1668,13 @@ flexibility(document.documentElement);
                                 <li class="nav-item"><a href="#" class="nav-link">Pay Online</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
                             </ul>
+							
                         </div>
                     
-				<div class="ast-custom-html">
+				<!-- <div class="ast-custom-html"> -->
 									
-									
-									24x7 Customer Helpline : +91 - 9871559871</div>
+				24x7 Customer Helpline : +91 - 9871559871</div>		
+								
 								</div> <!-- .above-header-user-select.user-select -->
 							</div>
 							
@@ -2541,7 +2554,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
                <div class="content-sheet text-justify col-mb-15 sect">
 
-                  <p>Tomar Travel has rich experience of more than 20 years when it comes to <strong>outstation taxi services from Delhi</strong> for all Trips. We mainly provide service from Delhi to PAN India as we have <b>All India Tourist Permit</b> Taxi service for Outstation. If you want to go to <strong>Shimla, Manali, Nainital, Jim Corbett</strong> or any other tourist destination, our outstation taxis are available at economical costs. Equipped with experienced and reliable drivers, our outstation taxi trips will be comfortable and safe, in every aspect. Free feel to check our outstation taxi charges from Delhi-NCR to other parts of the country.</p>
+			   <p>Tomar Travel has rich experience of more than 20 years when it comes to <strong>outstation taxi services from Delhi</strong> for all Trips. We mainly provide service from Delhi to PAN India as we have <b>All India Tourist Permit</b> Taxi service for Outstation. If you want to go to <strong>Shimla, Manali, Nainital, Jim Corbett</strong> or any other tourist destination, our outstation taxis are available at economical costs. Equipped with experienced and reliable drivers, our outstation taxi trips will be comfortable and safe, in every aspect. Free feel to check our outstation taxi charges from Delhi-NCR to other parts of the country.</p>
 
                </div>
 
@@ -2578,8 +2591,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
                 
                      <div class="col-md-6 col-xs-35">
-	
-                        <ul class="ul-list" style="padding-left:20px;list-style:none;"
+					      <ul class="ul-list" style="padding-left:20px;list-style:none;"
 >
                       
                            <li><i class="fa fa-check-square-o"></i> Largest Outstation Taxi Service in Delhi</li>
@@ -2626,6 +2638,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
                         </ul>
 
                      </div>
+						
 
                      <div class="col-md-6 col-mb-35">
 					 
@@ -2722,7 +2735,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
                   </div>
 
-               
+				  <div class="col-md-4 col-mb-6">
 
                      <div class="new-launch-item bg-white col-mb">
 
@@ -2768,10 +2781,12 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
       <!-- Footer - Start -->
 
+
       <div class="foot" style="background:#17202f;">
          <div class="container">
             <div class="row">
                <div class="col-md-3 col-mb-30">
+			   
                   <p class="fhead heading-title">About us</p>
                   <p class="text-justify"><b><a>Car Hire in Delhi</a></b> by Tomar Travel &amp; Car Rental service provider in Delhi-NCR. We are into this service from last 20 years for Taxi Tour Service. We deals in : <strong>Taxi service for Outstation</strong>, also <strong>Car hire for Outstation</strong>, or <strong>Taxi Service in Delhi</strong>, and other North India tour packages.</p>
                </div>
