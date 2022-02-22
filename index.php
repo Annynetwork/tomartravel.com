@@ -67,7 +67,7 @@
 
 		a,
 		.page-title {
-			color: ##1b42f2;
+			color: #1b42f2;
 		}
 
 		a:hover,
@@ -212,7 +212,7 @@
 		}
 
 		::selection {
-			background-color: ##1b42f2;
+			background-color: #1b42f2;
 			color: #000000;
 		}
 
@@ -238,13 +238,13 @@
 		.tagcloud a:focus,
 		.tagcloud a.current-item {
 			color: #000000;
-			border-color: ##1b42f2;
-			background-color: ##1b42f2;
+			border-color: #1b42f2;
+			background-color: #1b42f2;
 		}
 
 		.main-header-menu .menu-link,
 		.ast-header-custom-item a {
-			color: #faf7f7;
+			color: #000000;
 		}
 
 		.main-header-menu .menu-item:hover>.menu-link,
@@ -267,7 +267,7 @@
 		input[type="reset"]:focus,
 		input[type="search"]:focus,
 		textarea:focus {
-			border-color: ##1b42f2;
+			border-color: #1b42f2;
 		}
 
 		input[type="radio"]:checked,
@@ -276,15 +276,15 @@
 		input[type="checkbox"]:hover:checked,
 		input[type="checkbox"]:focus:checked,
 		input[type=range]::-webkit-slider-thumb {
-			border-color: ##1b42f2;
-			background-color: ##1b42f2;
+			border-color: #1b42f2;
+			background-color: #1b42f2;
 			box-shadow: none;
 		}
 
 		.site-footer a:hover+.post-count,
 		.site-footer a:focus+.post-count {
-			background: ##1b42f2;
-			border-color: ##1b42f2;
+			background: #1b42f2;
+			border-color: #1b42f2;
 		}
 
 		.ast-small-footer {
@@ -315,13 +315,13 @@
 		.single .nav-links .nav-next,
 		.single .ast-author-details .author-title,
 		.ast-comment-meta {
-			color: ##1b42f2;
+			color: #1b42f2;
 		}
 
 		.entry-meta,
 		.entry-meta * {
 			line-height: 1.45;
-			color: ##1b42f2;
+			color: #1b42f2;
 		}
 
 		.entry-meta a:hover,
@@ -339,24 +339,24 @@
 		.widget-title {
 			font-size: 22px;
 			font-size: 1.375rem;
-			color: #ffffff;
+			color: #000000;
 		}
 
 		#cat option,
 		.secondary .calendar_wrap thead a,
 		.secondary .calendar_wrap thead a:visited {
-			color: ##1b42f2;
+			color: #1b42f2;
 		}
 
 		.secondary .calendar_wrap #today,
 		.ast-progress-val span {
-			background: ##1b42f2;
+			background: #1b42f2;
 		}
 
 		.secondary a:hover+.post-count,
 		.secondary a:focus+.post-count {
-			background: ##1b42f2;
-			border-color: ##1b42f2;
+			background: #1b42f2;
+			border-color: #1b42f2;
 		}
 
 		.calendar_wrap #today>a {
@@ -366,7 +366,7 @@
 		.ast-pagination a,
 		.page-links .page-link,
 		.single .post-navigation a {
-			color: ##1b42f2;
+			color: #1b42f2;
 		}
 
 		.ast-pagination a:hover,
@@ -392,7 +392,7 @@
 
 		.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle {
 			background: #2e2d2c;
-			color: #ffffff;
+			color: #000000;
 		}
 
 		.ast-header-break-point .main-header-bar .ast-button-wrap .menu-toggle {
@@ -599,7 +599,7 @@
 
 		.elementor-button-wrapper .elementor-button:hover,
 		.elementor-button-wrapper .elementor-button:focus {
-			color: #ffffff;
+			color: #000000;
 			background-color: #106ca0;
 			border-color: #106ca0;
 		}
@@ -607,7 +607,7 @@
 		.wp-block-button .wp-block-button__link,
 		.elementor-button-wrapper .elementor-button,
 		.elementor-button-wrapper .elementor-button:visited {
-			color: #ffffff;
+			color: #000000;
 		}
 
 		.elementor-button-wrapper .elementor-button {
@@ -624,7 +624,7 @@
 			border-bottom-width: 0;
 			border-color: #2e2d2c;
 			background-color: #2e2d2c;
-			color: #ffffff;
+			color: #000000;
 			font-family: inherit;
 			font-weight: inherit;
 			line-height: 1;
@@ -637,7 +637,7 @@
 
 		.wp-block-button .wp-block-button__link:hover,
 		.wp-block-button .wp-block-button__link:focus {
-			color: #ffffff;
+			color: #000000;
 			background-color: #106ca0;
 			border-color: #106ca0;
 		}
@@ -668,7 +668,7 @@
 			border-right-width: 0;
 			border-left-width: 0;
 			border-bottom-width: 0;
-			color: #ffffff;
+			color: #000000;
 			border-color: #2e2d2c;
 			background-color: #2e2d2c;
 			border-radius: 10px;
@@ -694,7 +694,7 @@
 		input[type="button"]:focus,
 		input[type="submit"]:hover,
 		input[type="submit"]:focus {
-			color: #ffffff;
+			color: #000000;
 			background-color: #106ca0;
 			border-color: #106ca0;
 		}
@@ -1293,7 +1293,7 @@
 		}
 
 		.ast-separate-container .ast-article-post {
-			background-color: #ffffff;
+			background-color: #000000;
 			;
 			background-image: none;
 			;
@@ -1301,7 +1301,7 @@
 
 		@media (max-width:768px) {
 			.ast-separate-container .ast-article-post {
-				background-color: #ffffff;
+				background-color: #000000;
 				;
 				background-image: none;
 				;
@@ -1310,7 +1310,7 @@
 
 		@media (max-width:544px) {
 			.ast-separate-container .ast-article-post {
-				background-color: #ffffff;
+				background-color: #000000;
 				;
 				background-image: none;
 				;
@@ -1329,7 +1329,7 @@
 		.ast-separate-container .comments-count-wrapper,
 		.ast-box-layout.ast-plain-container .site-content,
 		.ast-padded-layout.ast-plain-container .site-content {
-			background-color: #ffffff;
+			background-color: #000000;
 			;
 			background-image: none;
 			;
@@ -1349,7 +1349,7 @@
 			.ast-separate-container .comments-count-wrapper,
 			.ast-box-layout.ast-plain-container .site-content,
 			.ast-padded-layout.ast-plain-container .site-content {
-				background-color: #ffffff;
+				background-color: #000000;
 				;
 				background-image: none;
 				;
@@ -1370,7 +1370,7 @@
 			.ast-separate-container .comments-count-wrapper,
 			.ast-box-layout.ast-plain-container .site-content,
 			.ast-padded-layout.ast-plain-container .site-content {
-				background-color: #ffffff;
+				background-color: #000000;
 				;
 				background-image: none;
 				;
@@ -1379,20 +1379,20 @@
 
 		.main-header-menu .current-menu-item>.menu-link,
 		.main-header-menu .current-menu-ancestor>.menu-link {
-			color: ##1b42f2;
+			color: #1b42f2;
 		}
 
 		.main-header-menu .menu-link:hover,
 		.ast-header-custom-item a:hover,
 		.main-header-menu .menu-item:hover>.menu-link,
 		.main-header-menu .menu-item.focus>.menu-link {
-			color: ##1b42f2;
+			color: #1b42f2;
 		}
 
 		.main-header-menu .ast-masthead-custom-menu-items a:hover,
 		.main-header-menu .menu-item:hover>.ast-menu-toggle,
 		.main-header-menu .menu-item.focus>.ast-menu-toggle {
-			color: ##1b42f2;
+			color: #1b42f2;
 		}
 
 		.main-header-menu,
@@ -1426,7 +1426,7 @@
 		.ast-above-header-menu .sub-menu,
 		.ast-above-header-menu .sub-menu .menu-link,
 		.ast-above-header-menu .astra-full-megamenu-wrapper {
-			border-color: ##1b42f2;
+			border-color: #1b42f2;
 		}
 
 		.ast-header-break-point .ast-below-header-merged-responsive .below-header-user-select,
@@ -1440,7 +1440,8 @@
 		}
 
 		.ast-above-header {
-			background-color: #966817;
+			/* background-color: #966817; */
+			background-color: hsl(0, 0%, 90%)
 			;
 			background-image: none;
 			;
@@ -1459,16 +1460,16 @@
 		.ast-above-header-section .user-select,
 		.ast-above-header-section .widget,
 		.ast-above-header-section .widget-title {
-			color: #ffffff;
+			color: #000000;
 		}
 
 		.ast-above-header-section .user-select a,
 		.ast-above-header-section .widget a {
-			color: ##1b42f2;
+			color: #1b42f2;
 		}
 
 		.ast-above-header-section .search-field:focus {
-			border-color: ##1b42f2;
+			border-color: #1b42f2;
 		}
 
 		.ast-above-header-section .user-select a:hover,
@@ -1629,7 +1630,7 @@ flexibility(document.documentElement);
 <body>
         <header> 
 		
-           
+		
                 <nav class="navbar navbar-expand-lg navbar-light">
 			
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -1640,6 +1641,7 @@ flexibility(document.documentElement);
                     <div class="collapse navbar-collapse justify-content-end ts-navbar" id="navbarSupportedContent">
                         
 					<div id="primary-nav" class="menu-main-menu-container">
+					
                             <ul id="main-menu" class="navbar-nav">
                                 <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">About Us</a></li>
@@ -1654,12 +1656,12 @@ flexibility(document.documentElement);
                                 <li class="nav-item"><a href="#" class="nav-link">Pay Online</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
                             </ul>
-							
+						
                         </div>
                     
 				<!-- <div class="ast-custom-html"> -->
 									
-				24x7 Customer Helpline : +91 - 9871559871</div>		
+				24x7 Customer Helpline : +91 - 9871559871	
 								
 								</div> <!-- .above-header-user-select.user-select -->
 							</div>
@@ -2207,10 +2209,10 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 											<div class="ctc_s_7"
 												style="display:flex;justify-content:center;align-items:center; ">
 												<p class="ctc_s_7_cta ctc-analytics ht-ctc-cta  ht-ctc-cta-hover "
-													style="padding: 0px 16px; color: #ffffff; background-color: #25d366; border-radius:10px; margin:0 10px;  display: none; order: 0; ">
+													style="padding: 0px 16px; color: #000000; background-color: #25d366; border-radius:10px; margin:0 10px;  display: none; order: 0; ">
 													WhatsApp us</p>
 												<div class="ctc_s_7_icon_padding ctc-analytics "
-													style="font-size: 20px; color: #ffffff; padding: 12px; background-color: #25D366; border-radius: 50%;">
+													style="font-size: 20px; color: #000000; padding: 12px; background-color: #25D366; border-radius: 50%;">
 													<svg style="pointer-events:none; display:block; height:20px; width:20px;"
 														height="20px" version="1.1" viewBox="0 0 509 512" width="20px">
 														<desc />
@@ -2219,7 +2221,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 															stroke-width="1">
 															<path
 																d="M259.253137,0.00180389396 C121.502859,0.00180389396 9.83730687,111.662896 9.83730687,249.413175 C9.83730687,296.530232 22.9142299,340.597122 45.6254897,378.191325 L0.613226597,512.001804 L138.700183,467.787757 C174.430395,487.549184 215.522926,498.811168 259.253137,498.811168 C396.994498,498.811168 508.660049,387.154535 508.660049,249.415405 C508.662279,111.662896 396.996727,0.00180389396 259.253137,0.00180389396 L259.253137,0.00180389396 Z M259.253137,459.089875 C216.65782,459.089875 176.998957,446.313956 143.886359,424.41206 L63.3044195,450.21808 L89.4939401,372.345171 C64.3924908,337.776609 49.5608297,295.299463 49.5608297,249.406486 C49.5608297,133.783298 143.627719,39.7186378 259.253137,39.7186378 C374.871867,39.7186378 468.940986,133.783298 468.940986,249.406486 C468.940986,365.025215 374.874096,459.089875 259.253137,459.089875 Z M200.755924,146.247066 C196.715791,136.510165 193.62103,136.180176 187.380228,135.883632 C185.239759,135.781068 182.918689,135.682963 180.379113,135.682963 C172.338979,135.682963 164.002301,138.050856 158.97889,143.19021 C152.865178,149.44439 137.578667,164.09322 137.578667,194.171258 C137.578667,224.253755 159.487251,253.321759 162.539648,257.402027 C165.600963,261.477835 205.268745,324.111057 266.985579,349.682963 C315.157262,369.636141 329.460495,367.859106 340.450462,365.455539 C356.441543,361.9639 376.521811,350.186865 381.616571,335.917077 C386.711331,321.63837 386.711331,309.399797 385.184018,306.857991 C383.654475,304.305037 379.578667,302.782183 373.464955,299.716408 C367.351242,296.659552 337.288812,281.870254 331.68569,279.83458 C326.080339,277.796676 320.898622,278.418749 316.5887,284.378615 C310.639982,292.612729 304.918689,301.074268 300.180674,306.09099 C296.46161,310.02856 290.477218,310.577055 285.331175,308.389764 C278.564174,305.506821 259.516237,298.869139 236.160607,278.048627 C217.988923,261.847958 205.716906,241.83458 202.149458,235.711949 C198.582011,229.598236 201.835077,225.948292 204.584241,222.621648 C207.719135,218.824546 210.610997,216.097679 213.667853,212.532462 C216.724709,208.960555 218.432625,207.05866 220.470529,202.973933 C222.508433,198.898125 221.137195,194.690767 219.607652,191.629452 C218.07588,188.568136 205.835077,158.494558 200.755924,146.247066 Z"
-																fill="#ffffff" id="htwaicon-chat" />
+																fill="#000000" id="htwaicon-chat" />
 														</g>
 													</svg>
 												</div>
@@ -2231,56 +2233,56 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 											media='all' />
 										<style id='astra-widgets-astra-widget-social-profiles-inline-css'>
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner li .ast-widget-icon svg {
-												fill: #ffffff;
+												fill: #000000;
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner li .ast-widget-icon:hover svg {
-												fill: ##1b42f2;
+												fill: #1b42f2;
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.square-outline li .ast-widget-icon,
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.circle-outline li .ast-widget-icon {
 												background: transparent;
-												border-color: #ffffff;
+												border-color: #000000;
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.square-outline li .ast-widget-icon svg,
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.circle-outline li .ast-widget-icon svg {
 												background: transparent;
-												fill: #ffffff;
+												fill: #000000;
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.square .ast-widget-icon,
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.circle .ast-widget-icon {
-												background: #ffffff;
-												border-color: #ffffff;
+												background: #000000;
+												border-color: #000000;
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.square .ast-widget-icon svg,
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.circle .ast-widget-icon svg {
-												fill: #ffffff;
+												fill: #000000;
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.square .ast-widget-icon:hover svg,
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.circle .ast-widget-icon:hover svg {
-												fill: ##1b42f2;
+												fill: #1b42f2;
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.square .ast-widget-icon:hover,
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.circle .ast-widget-icon:hover {
-												background: ##1b42f2;
-												border-color: ##1b42f2;
+												background: #1b42f2;
+												border-color: #1b42f2;
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.square-outline li .ast-widget-icon:hover,
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.circle-outline li .ast-widget-icon:hover {
 												background: transparent;
-												border-color: ##1b42f2;
+												border-color: #1b42f2;
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.square-outline li .ast-widget-icon:hover svg,
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.circle-outline li .ast-widget-icon:hover svg {
-												fill: ##1b42f2;
+												fill: #1b42f2;
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner .ast-widget-icon {
@@ -2519,7 +2521,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
                            .dropdown-menu .dropdown-menu{margin-left:0; margin-right: 0;}.dropdown-menu li{position: relative;}.nav-item .submenu{display: none;position: absolute;left:100%; top:-7px;}
 
-                           .nav-item .submenu-left{right:100%; left:auto;}.dropdown-menu > li:hover{ background-color:#ffdd78}.dropdown-menu > li:hover > .submenu{display: block;}}
+                           .nav-item .submenu-left{right:100%; left:auto;}.dropdown-menu > li:hover{ background-color:#000000}.dropdown-menu > li:hover > .submenu{display: block;}}
 
                         </style>
 
