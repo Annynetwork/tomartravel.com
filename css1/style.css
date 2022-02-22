@@ -45,7 +45,7 @@ button:focus {
 }
 
 .form-control {
-	border: 1px solid #f1f1f1;
+	border: 1px solid #0a0a0a;
 	padding: 6px 20px;
 	height: 50px;
 	font-size: 14px;
@@ -60,7 +60,7 @@ button:focus {
 	font-size: 28px;
 	margin: 0;
 	padding-bottom: 20px;
-	border-bottom: 1px solid #f1f1f1
+	border-bottom: 1px solid #080808
 }
 
 .btn {
@@ -118,7 +118,7 @@ button:focus {
 
 .btn-after input.btn {
 	border: none!important;
-	color: #fff!important
+	color: rgb(8, 8, 8)!important
 }
 
 .btn-after:after {
@@ -139,7 +139,7 @@ button:focus {
 
 .btn-primary {
 	background: transparent;
-	color: #fff;
+	color: rgb(8, 8, 8);
 	border: 1px solid transparent;
 	position: relative
 }
@@ -232,7 +232,7 @@ div.wpcf7 .ajax-loader {
 
 .column-title.text-white:before,
 .column-title-sm.text-white:before {
-	background: #fff
+	background: rgb(12, 12, 12)
 }
 
 .column-title.no-border,
@@ -331,7 +331,7 @@ div.wpcf7 .ajax-loader {
 
 .top-bar-social-icon i {
 	font-size: 14px;
-	color: #fff
+	color: #000000
 }
 
 .top-bar-event {
@@ -343,7 +343,7 @@ div.wpcf7 .ajax-loader {
 
 .top-bar-event i,
 .top-bar-event span {
-	color: #fff
+	color: #000000
 }
 
 .top-bar-event i {
@@ -477,14 +477,14 @@ div.wpcf7 .ajax-loader {
 
 .cart-link a {
 	display: inline-block;
-	color: #fff;
+	color: #000000;
 	font-size: 20px
 }
 
 .cart-link a sup {
 	font-size: 8px;
 	top: -15px;
-	background: #fff;
+	background: #000000;
 	color: #ee3131;
 	width: 10px;
 	height: 10px;
@@ -505,7 +505,7 @@ div.wpcf7 .ajax-loader {
 }
 
 .cart-link form button {
-	color: #fff;
+	color: #000000;
 	padding: 0;
 	font-size: 16px
 }
@@ -541,7 +541,7 @@ div.wpcf7 .ajax-loader {
 	bottom: -100px;
 	left: auto;
 	right: 0;
-	background: #fff;
+	background: #000000;
 	padding: 10px;
 	opacity: 0;
 	visibility: hidden;
@@ -583,7 +583,7 @@ div.wpcf7 .ajax-loader {
 }
 
 .cart-link .search-close {
-	color: #fff;
+	color: #000000;
 	cursor: pointer
 }
 
@@ -597,7 +597,7 @@ div.wpcf7 .ajax-loader {
 
 .cart-link .header-search-icon {
 	cursor: pointer;
-	color: #fff
+	color: #000000
 }
 
 .cart-link .header-search-icon .icon-search {
@@ -640,12 +640,12 @@ div.wpcf7 .ajax-loader {
 	position: relative;
 	font-family: "Roboto", sans-serif;
 	z-index: 2;
-	color: #fff
+	color: #000000
 }
 
 .navbar .nav-item .nav-link:hover,
 .navbar .nav-item .nav-link:focus {
-	color: #fff
+	color: #000000
 }
 
 .navbar .nav-item .nav-link:before {
@@ -653,7 +653,7 @@ div.wpcf7 .ajax-loader {
 	margin-left: 4px;
 	font-family: 'fontawesome';
 	top: 31px;
-	color: #FFF;
+	color: #000000;
 	font-size: 12px;
 	font-weight: 700;
 	right: -8px;
@@ -672,7 +672,7 @@ div.wpcf7 .ajax-loader {
 	bottom: -1px;
 	left: 0;
 	content: "";
-	background: #fff;
+	background: #000000;
 	width: 100%;
 	height: 4px;
 	opacity: 0;
@@ -682,7 +682,7 @@ div.wpcf7 .ajax-loader {
 }
 
 .navbar .nav-item .nav-link.active {
-	color: #fff
+	color: #000000
 }
 
 .navbar .nav-item .nav-link.active:after {
@@ -700,7 +700,7 @@ div.wpcf7 .ajax-loader {
 .navbar-nav .nav-item .dropdown-menu {
 	top: 57px;
 	border-radius: 0;
-	background: #fff;
+	background: #000000;
 	border-color: transparent;
 	padding: 0;
 	-webkit-transition: all 0.3s;
@@ -727,16 +727,16 @@ div.wpcf7 .ajax-loader {
 
 .navbar-nav .nav-item .dropdown-menu li a:hover,
 .navbar-nav .nav-item .dropdown-menu li a.active {
-	color: #fff;
+	color: #000000;
 	background: #ee3131
 }
 
 .navbar-nav .show>.nav-link {
-	color: #fff
+	color: #000000
 }
 
 .navbar-nav:focus {
-	color: #fff
+	color: #000000
 }
 
 .navbar-light .navbar-toggler-icon {
@@ -770,11 +770,11 @@ div.wpcf7 .ajax-loader {
 }
 
 .ts-header-classic .ts-logo-area .info-wrapper .info-subtitle {
-	color: #fff
+	color: #000000
 }
 
 .ts-header-classic .ts-logo-area .info-wrapper .info-title {
-	color: #fff
+	color: #000000
 }
 
 .ts-header-classic .header-angle {
@@ -895,7 +895,7 @@ div.wpcf7 .ajax-loader {
 
 .ts-header-standard .ts-logo-area .navbar .cart-link a sup {
 	background: #101010;
-	color: #fff
+	color: #000000
 }
 
 .ts-header-standard .header-cart {
@@ -918,7 +918,7 @@ div.wpcf7 .ajax-loader {
 	width: 1px;
 	height: 100%;
 	content: '';
-	background: #ddd
+	background: rgb(10, 10, 10)
 }
 
 .ts-header-standard .navbar-light .navbar-toggler {
@@ -1017,7 +1017,7 @@ div.wpcf7 .ajax-loader {
 		background: rgba(0, 0, 0, .9)
 	}
 	.sticky.ts-header-standard .ts-logo-area {
-		background: #fff
+		background: #000000
 	}
 	.sticky.header-angle:after {
 		width: 100%
@@ -1080,7 +1080,7 @@ div.wpcf7 .ajax-loader {
 
 .feature-single {
     margin-bottom: 30px;
-    border: 1px solid #eee;
+    border: 1px solid #000000;
     display: inline-block;
     width: 100%;
     padding: 25px 20px;
@@ -1122,7 +1122,7 @@ div.wpcf7 .ajax-loader {
     width: 100%;
     font-weight: normal;
     margin-bottom: 0px;
-    color: #fff;
+    color: #000000;
 }
 
 .get_quote_form .section-title:before {
@@ -1131,7 +1131,7 @@ div.wpcf7 .ajax-loader {
 
 .quote_form {
     padding: 10px 10px 0px 10px;
-    border: 1px solid #eee;
+    border: 1px solid #000000;
 }
 
 .quote_form .form-control {
@@ -1140,7 +1140,7 @@ div.wpcf7 .ajax-loader {
 }
 
 .get_quote_form .title-section-area h2 span {
-    color: #fff;
+    color: #000000;
 }
 
 .our_services_wrap {
@@ -1177,7 +1177,7 @@ div.wpcf7 .ajax-loader {
 }
 
 .ts-service-wrapper:hover .service-content {
-	background: #fff;
+	background: #000000;
 	box-shadow: 0px 0px 10px #33333340;
 }
 
@@ -1225,7 +1225,7 @@ div.wpcf7 .ajax-loader {
 	background: #ee3131;
 	border-radius: 3px;
 	font-size: 28px;
-	color: #fff;
+	color: #000000;
 	box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .15)
 }
 
@@ -1273,7 +1273,7 @@ div.wpcf7 .ajax-loader {
 .our_services_banner h3 {
     font-size: 30px;
     margin-top: 80px;
-    color: #fff;
+    color: #000000;
     display: inline-block;
     width: 100%;
 }
@@ -1284,7 +1284,7 @@ div.wpcf7 .ajax-loader {
 
 .our_services_banner p {
     width: 70%;
-    color: #fff;
+    color: #000000;
     font-weight: lighter;
 }
 
@@ -1333,7 +1333,7 @@ div.wpcf7 .ajax-loader {
 
 .other_services_item span {
 	background: #ee3131;
-	color: #fff;
+	color: #000000;
 	padding: 8px;
 	text-align: center;
 	z-index: 99;
@@ -1379,7 +1379,7 @@ div.wpcf7 .ajax-loader {
 .news_wrap {
     display: inline-block;
     width: 100%;
-    background: #fff;
+    background: #000000;
     padding: 20px;
     height: 492px;
     overflow: auto;
@@ -1412,12 +1412,12 @@ div.wpcf7 .ajax-loader {
 .counter-icon-box {
     float: left;
     padding: 19px 25px;
-    border: 1px solid #fff;
+    border: 1px solid #000000;
 }
 
 .counter-icon-box i {
     font-size: 25px;
-    color: #fff;
+    color: #000000;
 }
 
 .counter-text-box {
@@ -1427,13 +1427,13 @@ div.wpcf7 .ajax-loader {
 .counter-value {
     font-size: 30px;
     font-weight: bold;
-    color: #fff;
+    color: #000000;
     display: inline-block;
     margin-bottom: 20px;
 }
 
 .counter-text-box p {
-    color: #fff;
+    color: #000000;
     font-size: 20px;
     font-weight: lighter;
 }
@@ -1446,7 +1446,7 @@ div.wpcf7 .ajax-loader {
 
 .client_slider .item {
     width: 170px;
-    border: 1px solid #eee;
+    border: 1px solid #000000;
     margin: 0 auto;
 }
 
@@ -1465,7 +1465,7 @@ div.wpcf7 .ajax-loader {
     text-align: center;
     background: #ee3131;
     font-size: 20px;
-    color: #fff;
+    color: #000000;
     transition: all 0.3s;
     margin-left: 20px;
 }
@@ -1499,7 +1499,7 @@ div.wpcf7 .ajax-loader {
 .footer-top [class*=col] i,
 .footer-top [class*=col] h3,
 .footer-top [class*=col] p {
-	color: #fff
+	color: #000000
 }
 
 .footer-top [class*=col] p {
@@ -1551,7 +1551,7 @@ div.wpcf7 .ajax-loader {
 }
 
 .footer-main .footer-about {
-	color: #fff;
+	color: #000000;
 	font-size: 14px
 }
 
@@ -1590,13 +1590,13 @@ div.wpcf7 .ajax-loader {
 
 .footer-main .footer-social ul li a:hover {
 	background: #d20022;
-	color: #fff;
+	color: #000000;
 	border-color: #d20022
 }
 
 .footer-widget .widget-title {
 	font-size: 24px;
-	color: #fff;
+	color: #000000;
 	margin-bottom: 40px
 }
 
@@ -1614,13 +1614,13 @@ div.wpcf7 .ajax-loader {
 .footer-widget .menu li.news-text>span {
 	font-size: 14px;
 	display: block;
-	color: #999
+	color: #000000
 }
 
 .footer-widget .unstyled li a,
 .footer-widget .menu li a {
 	font-size: 14px;
-	color: #fff;
+	color: #000000;
 	font-weight: lighter;
 }
 
@@ -1651,7 +1651,7 @@ div.wpcf7 .ajax-loader {
 	display: flex;
 	justify-content: space-between;
 	font-size: 14px;
-	color: #fff
+	color: #000000
 }
 
 .unstyled.service-time li:last-child {
@@ -1667,7 +1667,7 @@ div.wpcf7 .ajax-loader {
 }
 
 .copyright .copyright-info {
-	color: #fff;
+	color: #000000;
 	font-size: 14px;
 	font-weight: lighter;
 }
@@ -1681,7 +1681,7 @@ div.wpcf7 .ajax-loader {
 	position: fixed;
 	right: 22px;
 	bottom: 17px;
-	color: #fff;
+	color: #000000;
 	z-index: 2;
 	border: none
 }
@@ -1695,7 +1695,7 @@ div.wpcf7 .ajax-loader {
 }
 
 .footer-menu .nav li a {
-	color: #fff;
+	color: #000000;
 	font-weight: lighter;
 	font-size: 14px;
 }
@@ -1718,13 +1718,13 @@ div.wpcf7 .ajax-loader {
 
 .footer-area-3 ul li a {
 	font-size: 14px;
-	color: #fff
+	color: #000000
 }
 
 .footer-area-3 ul li span {
 	font-size: 14px;
 	display: block;
-	color: #999
+	color: #000000
 }
 
 .footer-top [class*=col]:nth-child(1) {
@@ -1829,12 +1829,12 @@ div.wpcf7 .ajax-loader {
 }
 
 .breadcrumb_wrap ul li a {
-	color: #fff;
+	color: #000000;
 }
 
 .breadcrumb_wrap h3.page_title {
 	margin: 0px;
-	color: #fff;
+	color: #000000;
 	font-size: 40px;
 	margin-bottom: 20px;
 }
@@ -1926,7 +1926,7 @@ div.wpcf7 .ajax-loader {
 }
 
 .services_menu li.active a {
-	color: #fff;
+	color: #000000;
 }
 
 .services_menu li a {
@@ -1962,7 +1962,7 @@ div.wpcf7 .ajax-loader {
 	margin-right: 10px;
 	margin-bottom: 10px;
 	font-size: 14px;
-	color: #fff;
+	color: #000000;
 }
 
 .facilities_content p {
@@ -2030,12 +2030,12 @@ div.wpcf7 .ajax-loader {
 }
 
 .contact-field input{
-  background: #fff none repeat scroll 0 0;
+  background: #000000 none repeat scroll 0 0;
   border: 1px solid #ddd;
   margin-top: 20px;
   padding: 10px;
   width: 100%;
-  color:#999999;
+  color:#000000999;
 }
 
 .contact-field select {
@@ -2044,13 +2044,13 @@ div.wpcf7 .ajax-loader {
 	padding: 11px 20px;
 	margin-bottom: 20px;
 	text-transform: capitalize;
-	color: #999999;
+	color: #000000999;
 	margin-top: 20px;
 }
 
 .contact-field .select-arrow::before {
 	top: 30px;
-	color: #999999;
+	color: #000000999;
 }
 
 .contact-field .message-input {display: inline-block;width: 100%;}
@@ -2066,7 +2066,7 @@ div.wpcf7 .ajax-loader {
 .single-input-fieldsbtn input[type="submit"] {
 	background: #ee3131 none repeat scroll 0 0;
 	border: 0;
-	color: #fff;
+	color: #000000;
 	display: inline-block;
 	font-weight: 600;
 	padding: 14px 30px;
@@ -2104,7 +2104,7 @@ div.wpcf7 .ajax-loader {
     display: inline-block;
     width: 100%;
     position: relative;
-    border: 1px solid #eee;
+    border: 1px solid #000000;
     box-shadow: 0px 0px 10px #00000014;
     padding: 15px;
     margin-bottom: 15px;
@@ -2204,7 +2204,7 @@ div.wpcf7 .ajax-loader {
 }
 
 .footer-top .footer-box-content h3 a {
-    color: #fff;
+    color: #000000;
 }
 .right{
 	float: right;

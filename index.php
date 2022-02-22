@@ -7,22 +7,7 @@
 <head>
 	<meta charset="UTF-8">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-	<!-- Global site tag (gtag.js) - Google Ads: 341817982 -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-341817982"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
-		gtag('js', new Date());
 
-		gtag('config', 'AW-341817982');
-	</script>
-	<!-- Event snippet for Website lead conversion page -->
-	<script>
-		gtag('event', 'conversion', { 'send_to': 'AW-341817982/lc7QCKjxqM4CEP70_qIB' });
-	</script>
-
-
-	<!-- This site is optimized with the Yoast SEO plugin v15.8 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Car Rental Services | Tomar Travels</title>
 
 	<meta name="description"
@@ -82,12 +67,12 @@
 
 		a,
 		.page-title {
-			color: #dd9933;
+			color: ##1b42f2;
 		}
 
 		a:hover,
 		a:focus {
-			color: #603b19;
+			color: #2e2d2c;
 		}
 
 		body,
@@ -227,7 +212,7 @@
 		}
 
 		::selection {
-			background-color: #dd9933;
+			background-color: ##1b42f2;
 			color: #000000;
 		}
 
@@ -253,8 +238,8 @@
 		.tagcloud a:focus,
 		.tagcloud a.current-item {
 			color: #000000;
-			border-color: #dd9933;
-			background-color: #dd9933;
+			border-color: ##1b42f2;
+			background-color: ##1b42f2;
 		}
 
 		.main-header-menu .menu-link,
@@ -271,7 +256,7 @@
 		.main-header-menu .current-menu-ancestor>.menu-link,
 		.main-header-menu .current-menu-item>.ast-menu-toggle,
 		.main-header-menu .current-menu-ancestor>.ast-menu-toggle {
-			color: #dd9933;
+			color: #1b42f2;
 		}
 
 		input:focus,
@@ -282,7 +267,7 @@
 		input[type="reset"]:focus,
 		input[type="search"]:focus,
 		textarea:focus {
-			border-color: #dd9933;
+			border-color: ##1b42f2;
 		}
 
 		input[type="radio"]:checked,
@@ -291,15 +276,15 @@
 		input[type="checkbox"]:hover:checked,
 		input[type="checkbox"]:focus:checked,
 		input[type=range]::-webkit-slider-thumb {
-			border-color: #dd9933;
-			background-color: #dd9933;
+			border-color: ##1b42f2;
+			background-color: ##1b42f2;
 			box-shadow: none;
 		}
 
 		.site-footer a:hover+.post-count,
 		.site-footer a:focus+.post-count {
-			background: #dd9933;
-			border-color: #dd9933;
+			background: ##1b42f2;
+			border-color: ##1b42f2;
 		}
 
 		.ast-small-footer {
@@ -307,7 +292,7 @@
 		}
 
 		.ast-small-footer>.ast-footer-overlay {
-			background-color: #3a1b07;
+			background-color: #f5f3f2;
 			;
 		}
 
@@ -330,20 +315,20 @@
 		.single .nav-links .nav-next,
 		.single .ast-author-details .author-title,
 		.ast-comment-meta {
-			color: #dd9933;
+			color: ##1b42f2;
 		}
 
 		.entry-meta,
 		.entry-meta * {
 			line-height: 1.45;
-			color: #dd9933;
+			color: ##1b42f2;
 		}
 
 		.entry-meta a:hover,
 		.entry-meta a:hover *,
 		.entry-meta a:focus,
 		.entry-meta a:focus * {
-			color: #603b19;
+			color: #2e2d2c;
 		}
 
 		.ast-404-layout-1 .ast-404-text {
@@ -360,18 +345,18 @@
 		#cat option,
 		.secondary .calendar_wrap thead a,
 		.secondary .calendar_wrap thead a:visited {
-			color: #dd9933;
+			color: ##1b42f2;
 		}
 
 		.secondary .calendar_wrap #today,
 		.ast-progress-val span {
-			background: #dd9933;
+			background: ##1b42f2;
 		}
 
 		.secondary a:hover+.post-count,
 		.secondary a:focus+.post-count {
-			background: #dd9933;
-			border-color: #dd9933;
+			background: ##1b42f2;
+			border-color: ##1b42f2;
 		}
 
 		.calendar_wrap #today>a {
@@ -381,7 +366,7 @@
 		.ast-pagination a,
 		.page-links .page-link,
 		.single .post-navigation a {
-			color: #dd9933;
+			color: ##1b42f2;
 		}
 
 		.ast-pagination a:hover,
@@ -391,22 +376,22 @@
 		.page-links>.page-link,
 		.page-links .page-link:hover,
 		.post-navigation a:hover {
-			color: #603b19;
+			color: #2e2d2c;
 		}
 
 		.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle {
 			background: transparent;
-			color: #603b19;
+			color: #2e2d2c;
 		}
 
 		.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle {
 			background: transparent;
-			border: 1px solid #603b19;
-			color: #603b19;
+			border: 1px solid #2e2d2c;
+			color: #2e2d2c;
 		}
 
 		.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle {
-			background: #603b19;
+			background: #2e2d2c;
 			color: #ffffff;
 		}
 
@@ -608,8 +593,8 @@
 		}
 
 		.elementor-button-wrapper .elementor-button {
-			border-color: #603b19;
-			background-color: #603b19;
+			border-color: #2e2d2c;
+			background-color: #2e2d2c;
 		}
 
 		.elementor-button-wrapper .elementor-button:hover,
@@ -637,8 +622,8 @@
 			border-right-width: 0;
 			border-left-width: 0;
 			border-bottom-width: 0;
-			border-color: #603b19;
-			background-color: #603b19;
+			border-color: #2e2d2c;
+			background-color: #2e2d2c;
 			color: #ffffff;
 			font-family: inherit;
 			font-weight: inherit;
@@ -684,8 +669,8 @@
 			border-left-width: 0;
 			border-bottom-width: 0;
 			color: #ffffff;
-			border-color: #603b19;
-			background-color: #603b19;
+			border-color: #2e2d2c;
+			background-color: #2e2d2c;
 			border-radius: 10px;
 			padding-top: 16px;
 			padding-right: 40px;
@@ -836,7 +821,7 @@
 		}
 
 		.main-header-bar .button-custom-menu-item .ast-custom-button-link .ast-custom-button {
-			background-color: #603b19;
+			background-color: #2e2d2c;
 			padding-top: 15px;
 			padding-bottom: 15px;
 			padding-left: 35px;
@@ -1006,7 +991,7 @@
 
 		.ast-desktop .main-header-menu.submenu-with-border .sub-menu,
 		.ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper {
-			border-color: #dd9933;
+			border-color: #1b42f2;
 		}
 
 		.ast-desktop .main-header-menu.submenu-with-border .sub-menu {
@@ -1394,20 +1379,20 @@
 
 		.main-header-menu .current-menu-item>.menu-link,
 		.main-header-menu .current-menu-ancestor>.menu-link {
-			color: #dd9933;
+			color: ##1b42f2;
 		}
 
 		.main-header-menu .menu-link:hover,
 		.ast-header-custom-item a:hover,
 		.main-header-menu .menu-item:hover>.menu-link,
 		.main-header-menu .menu-item.focus>.menu-link {
-			color: #dd9933;
+			color: ##1b42f2;
 		}
 
 		.main-header-menu .ast-masthead-custom-menu-items a:hover,
 		.main-header-menu .menu-item:hover>.ast-menu-toggle,
 		.main-header-menu .menu-item.focus>.ast-menu-toggle {
-			color: #dd9933;
+			color: ##1b42f2;
 		}
 
 		.main-header-menu,
@@ -1416,7 +1401,7 @@
 		.ast-header-custom-item a,
 		.ast-masthead-custom-menu-items,
 		.ast-masthead-custom-menu-items a {
-			color: #603b19;
+			color: #2e2d2c;
 		}
 
 		.ast-above-header {
@@ -1441,7 +1426,7 @@
 		.ast-above-header-menu .sub-menu,
 		.ast-above-header-menu .sub-menu .menu-link,
 		.ast-above-header-menu .astra-full-megamenu-wrapper {
-			border-color: #dd9933;
+			border-color: ##1b42f2;
 		}
 
 		.ast-header-break-point .ast-below-header-merged-responsive .below-header-user-select,
@@ -1451,23 +1436,24 @@
 		}
 
 		.ast-header-break-point .ast-below-header-merged-responsive .below-header-user-select a {
-			color: #dd9933;
+			color: #1b42f2;
 		}
 
 		.ast-above-header {
-			background-color: #3a1b07;
+			background-color: #966817;
 			;
 			background-image: none;
 			;
 		}
 
+		<! –– header colour ––>
 		.ast-header-break-point .ast-above-header-merged-responsive .ast-above-header {
-			background-color: #3a1b07;
+			background-color: #000000;
 		}
 
 		.ast-header-break-point .ast-above-header-section-separated .ast-above-header-navigation,
 		.ast-header-break-point .ast-above-header-section-separated .ast-above-header-navigation ul {
-			background-color: #3a1b07;
+			background-color: #000000;
 		}
 
 		.ast-above-header-section .user-select,
@@ -1478,16 +1464,16 @@
 
 		.ast-above-header-section .user-select a,
 		.ast-above-header-section .widget a {
-			color: #dd9933;
+			color: ##1b42f2;
 		}
 
 		.ast-above-header-section .search-field:focus {
-			border-color: #dd9933;
+			border-color: ##1b42f2;
 		}
 
 		.ast-above-header-section .user-select a:hover,
 		.ast-above-header-section .widget a:hover {
-			color: #603b19;
+			color: #1b42f2;
 		}
 
 		@media (max-width:768px) {
@@ -2249,7 +2235,7 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner li .ast-widget-icon:hover svg {
-												fill: #dd9933;
+												fill: ##1b42f2;
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.square-outline li .ast-widget-icon,
@@ -2277,24 +2263,24 @@ $("#ret_date").datepicker({dateFormat: 'yy/mm/dd',numberOfMonths: 1});$( "#odep_
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.square .ast-widget-icon:hover svg,
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.circle .ast-widget-icon:hover svg {
-												fill: #dd9933;
+												fill: ##1b42f2;
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.square .ast-widget-icon:hover,
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.circle .ast-widget-icon:hover {
-												background: #dd9933;
-												border-color: #dd9933;
+												background: ##1b42f2;
+												border-color: ##1b42f2;
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.square-outline li .ast-widget-icon:hover,
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.circle-outline li .ast-widget-icon:hover {
 												background: transparent;
-												border-color: #dd9933;
+												border-color: ##1b42f2;
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.square-outline li .ast-widget-icon:hover svg,
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner.circle-outline li .ast-widget-icon:hover svg {
-												fill: #dd9933;
+												fill: ##1b42f2;
 											}
 
 											#astra-widget-social-profiles-4 .astra-widget-social-profiles-inner .ast-widget-icon {

@@ -26,7 +26,7 @@
   width: 34px;
   height: 1px;
   position: absolute;
-  background: white;
+  background: rgb(3, 3, 3);
   border-top: 1px solid grey;
 }
 @media (max-width: 680px) {
@@ -93,12 +93,12 @@
   left: 10%;
   top: 50%;
   transform: translateY(-50%);
-  color: #fff;
+  color: rgb(14, 13, 13);
 }
 
 #slider-container .slider_disc h2 {
     font-size: 40px;
-    color: #fff;
+    color: rgb(8, 8, 8);
     text-transform: uppercase;
 }
 

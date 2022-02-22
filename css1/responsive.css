@@ -43,7 +43,7 @@
 		background: rgba(0, 0, 0, .9)
 	}
 	.sticky.ts-header-standard .ts-logo-area {
-		background: #fff
+		background: rgb(10, 10, 10)
 	}
 	.sticky.header-angle:after {
 		width: 100%
@@ -245,7 +245,7 @@
 		display: none
 	}
 	.navbar-nav .nav-item .dropdown-menu li a {
-		color: #fff
+		color: rgb(12, 12, 12)
 	}
 	.navbar-toggler {
 		border: none
@@ -281,7 +281,7 @@
 		width: 20px;
 		height: 20px;
 		line-height: 20px;
-		border: 1px solid #ddd;
+		border: 1px solid rgb(8, 8, 8);
 		text-align: center
 	}
 	.header-default .header-angle .navbar .nav-item .nav-link.active:after {
@@ -299,7 +299,7 @@
 	}
 	.navbar-light .navbar-toggler {
 		border-radius: 0;
-		border-color: #fff
+		border-color: rgb(15, 15, 15)
 	}
 	.ts-tab.nav-tabs .nav-link {
 		width: 160px
@@ -479,7 +479,7 @@
 	}
 	.navbar-nav .nav-item .dropdown-menu li a:hover,
 	.navbar-nav .nav-item .dropdown-menu li a.active {
-		color: #fff;
+		color: rgb(10, 10, 10);
 		background: #ab2727
 	}
 	.ts-about-us .overflow-hidden .box-skew-right {
@@ -672,7 +672,7 @@
 		z-index: 9
 	}
 	.ts-header-standard .ts-logo-area .ts-navbar {
-		background: #fff
+		background: rgb(10, 10, 10)
 	}
 	.navbar .nav-item:hover .dropdown-menu {
 		/* display: none */
@@ -697,7 +697,7 @@
 	}
 	.navbar-nav .nav-item .dropdown-menu li a,
 	.navbar-nav .nav-item .dropdown-menu li a.active {
-		color: #fff
+		color: rgb(2, 2, 2)
 	}
 	.cart-link form .search-box {
 		right: 0;
@@ -705,7 +705,7 @@
 	}
 	.navbar-light .navbar-toggler {
 		border-radius: 0;
-		border-color: #fff;
+		border-color: rgb(2, 2, 2);
 		border: none
 	}
 	.top-bar-event.ts-top {
@@ -858,7 +858,7 @@
 #slider-container .slider_disc a {font-size: 13px;}
 .client_slider .item {
     width: 170px;
-    border: 1px solid #eee;
+    border: 1px solid rgb(26, 25, 25);
     margin: 0 auto;
 } 
 .title-section-area .section-title{
